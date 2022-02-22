@@ -1,0 +1,4214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The opening of the wo[r]des of the prophet Ioell, in his second and third chapters rehersed by Christ in Mathewe .xxiiii. Marke .xiii. Luke .xxi. and by Peter Actes .ii. concerning the signes of the last day. Compiled by Robert Crowley in the yeare of our Lord. M. D.XLVI. And perused againe by the same. Anno 1566.</title>
+            <author>Crowley, Robert, 1518?-1588.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1569</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19666</idno>
+            <idno type="STC">STC 6089</idno>
+            <idno type="STC">ESTC S118224</idno>
+            <idno type="EEBO-CITATION">99853432</idno>
+            <idno type="PROQUEST">99853432</idno>
+            <idno type="VID">18815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 418:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The opening of the wo[r]des of the prophet Ioell, in his second and third chapters rehersed by Christ in Mathewe .xxiiii. Marke .xiii. Luke .xxi. and by Peter Actes .ii. concerning the signes of the last day. Compiled by Robert Crowley in the yeare of our Lord. M. D.XLVI. And perused againe by the same. Anno 1566.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[120] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Henry Bynneman, for Iohn Charlewood dwelling in Barbican, at the sygne of the halfe Eagle [and] the Key,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1567.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Running title reads: Signes and tokens of the last day.</note>
+                  <note>Signatures: A-G F⁴.</note>
+                  <note>Imperfect; lacks E4-5. Title page trimmed affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18815:1"/>
+            <pb facs="tcp:18815:1" rendition="simple:additions"/>
+            <p>¶ <hi>The opening of the</hi> wor<g ref="char:EOLunhyphen"/>des of the Prophet Ioell, in his <hi>ſe<g ref="char:EOLhyphen"/>cond and third Chapters, reherſed by</hi> Chriſt in Mathewe .xxiiij. Marke .xiij. Luke .xxj. and by Peter Actes .ij. concerning the Signes of the laſt day. <hi>Compiled by Robert Crowley in the yeare of our Lord. M.D.XLVI. And peruſed againe by the ſame. <hi>ANNO 1566.</hi>
+               </hi>
+            </p>
+            <figure>
+               <figDesc>printer's device of John Charlewood, featuring the blazon or coat of arms of the City of Geneva, a half eagle and a key (McKerrow 136)</figDesc>
+               <head>
+                  <q>POST TENEBRAS LVX</q>
+               </head>
+            </figure>
+            <p>¶ <hi>IMPRINTED AT LONDON by Henry Bynneman, for Iohn Charle<g ref="char:EOLhyphen"/>wood,</hi> dwelling in Barbican, at the ſygne of the halfe Eagle &amp; the Key. <hi>ANNO. 1567.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:18815:2"/>
+            <pb facs="tcp:18815:2" rendition="simple:additions"/>
+            <head>Signes and Tokens of the laſt day.</head>
+            <div n="1" type="part">
+               <lg>
+                  <l>REpent, repent,</l>
+                  <l>I ſay repent</l>
+                  <l>Your miſſe, &amp; it amende:</l>
+                  <l>Chriſtes prophecie,</l>
+                  <l>Doth ſhew plainely,</l>
+                  <l>This world ſhall ſhortly ende.</l>
+               </lg>
+               <lg>
+                  <l>Darke is the ſunne,</l>
+                  <l>Bloud is the moone,</l>
+                  <l>From heauen are fallen the ſtars:</l>
+                  <l>Earthquakes are ſéene,</l>
+                  <l>Peſtilence, famine,</l>
+                  <l>Rumors tel nought but wars.</l>
+               </lg>
+               <lg>
+                  <l>I do intend</l>
+                  <l>Small tyme to ſpend,</l>
+                  <l>To proue theſe rumours true:</l>
+                  <l>For at eche porte,</l>
+                  <l>Where is reſorte,</l>
+                  <l>We heare them dayly new.</l>
+               </lg>
+               <lg>
+                  <l>But I know well,</l>
+                  <l>That the Goſpell,</l>
+                  <l>Meaneth ſome other thing,</l>
+                  <l>By this warre then,</l>
+                  <pb facs="tcp:18815:3"/>
+                  <l>That mortall men,</l>
+                  <l>Should be giuen to fighting.</l>
+               </lg>
+               <lg>
+                  <l>For ſince men were,</l>
+                  <l>Of ſuch number,</l>
+                  <l>That wars might be maintained:</l>
+                  <l>Ech Emperie,</l>
+                  <l>Hath ſought glorie,</l>
+                  <l>And hath the reſt diſdained.</l>
+               </lg>
+               <lg>
+                  <l>But the wars that,</l>
+                  <l>Chriſt ſaith ſhall at,</l>
+                  <l>The laſt day be ſo great:</l>
+                  <l>Are not the ſame,</l>
+                  <l>Wherof the fame,</l>
+                  <l>Of hiſtories doth treate.</l>
+               </lg>
+               <lg>
+                  <l>I dare be bolde,</l>
+                  <l>This warre is holde,</l>
+                  <l>With that ſwerd y<hi rend="sup">t</hi> Chriſt ſent</l>
+                  <l>Among vs, when</l>
+                  <l>He ſaid all men,</l>
+                  <l>From other ſhould diſſent.</l>
+               </lg>
+               <lg>
+                  <l>I came ſaith he,</l>
+                  <l>Not to giue ye</l>
+                  <l>Peace, but to ſend a ſword,</l>
+                  <l>Among you all,</l>
+                  <l>Wherwith you ſhall,</l>
+                  <l>Fall at vtter diſcord.</l>
+               </lg>
+               <pb facs="tcp:18815:3"/>
+               <lg>
+                  <l>The parents ſhall,</l>
+                  <l>Make the childe thrall,</l>
+                  <l>And the childe them againe:</l>
+                  <l>To them ſhall bée,</l>
+                  <l>Great ioy to ſée,</l>
+                  <l>Eche other of them ſlayne.</l>
+               </lg>
+               <lg>
+                  <l>No maner kinne,</l>
+                  <l>Shall auaile in</l>
+                  <l>That caſe, no man ſhall miſſe:</l>
+                  <l>To haue them that,</l>
+                  <l>He kepeth at,</l>
+                  <l>His charge his enimies.</l>
+               </lg>
+               <lg>
+                  <l>Thus doth he ſay,</l>
+                  <l>That men ſhall ſlay,</l>
+                  <l>Eche other cruelly:</l>
+                  <l>For this great fight,</l>
+                  <l>Paſſeth the might,</l>
+                  <l>Of our great chiualry.</l>
+               </lg>
+               <lg>
+                  <l>Our men of might,</l>
+                  <l>When they do fight,</l>
+                  <l>Can neuer hurt the ſoule:</l>
+                  <l>But theſe men quell,</l>
+                  <l>Them into hell,</l>
+                  <l>That Satan may them coule.</l>
+               </lg>
+               <lg>
+                  <l>Theſe men are they,</l>
+                  <l>That vſe alway,</l>
+                  <pb facs="tcp:18815:4"/>
+                  <l>To iudge ſuch men holieſt:</l>
+                  <l>As they do ſée,</l>
+                  <l>On the earth to bée,</l>
+                  <l>Counted as the higheſt.</l>
+               </lg>
+               <lg>
+                  <l>Yea they do thinke,</l>
+                  <l>That the poore ſtinke,</l>
+                  <l>Before the face of God:</l>
+                  <l>Bicauſe they ſée,</l>
+                  <l>That pouertie,</l>
+                  <l>Is counted the Lordes rod.</l>
+               </lg>
+               <lg>
+                  <l>They do pretende,</l>
+                  <l>For to dèfende,</l>
+                  <l>The faith with might &amp; maine:</l>
+                  <l>Wherfore all they,</l>
+                  <l>That will ſay nay,</l>
+                  <l>With the ſword muſt be ſlaine.</l>
+               </lg>
+               <lg>
+                  <l>This is their trade,</l>
+                  <l>They will perſwade</l>
+                  <l>Men that worldly wealthis,</l>
+                  <l>The rewarde, that</l>
+                  <l>Chriſt fayleth not,</l>
+                  <l>To giue them that are his.</l>
+               </lg>
+               <lg>
+                  <l>They ſay further,</l>
+                  <l>Will Chriſt ſuffer,</l>
+                  <l>His church to be trode downe?</l>
+                  <l>No no, they ſhall,</l>
+                  <pb facs="tcp:18815:4"/>
+                  <l>Raigne ouer all,</l>
+                  <l>Both in citie and towne.</l>
+               </lg>
+               <lg>
+                  <l>The wicked bée</l>
+                  <l>Faine for to flée,</l>
+                  <l>From place to place eche day:</l>
+                  <l>For feare of his,</l>
+                  <l>Righteous iuſtice,</l>
+                  <l>To this who dare ſay nay?</l>
+               </lg>
+               <lg>
+                  <l>But thus ſay they,</l>
+                  <l>We flée away,</l>
+                  <l>From perſecution:</l>
+                  <l>And yet all we,</l>
+                  <l>Know it to be,</l>
+                  <l>Iuſt execution.</l>
+               </lg>
+               <lg>
+                  <l>For they profeſſe,</l>
+                  <l>Chriſtes faith no leſſe,</l>
+                  <l>That execute the thyng:</l>
+                  <l>Than thoſe men did,</l>
+                  <l>That firſt preached,</l>
+                  <l>The chriſtian liuing.</l>
+               </lg>
+               <lg>
+                  <l>How can they then,</l>
+                  <l>Perſecute men,</l>
+                  <l>That profeſſe Chriſt alſo:</l>
+                  <l>Vnleſſe they ſhould,</l>
+                  <l>Be found ſo bold,</l>
+                  <l>To ſay both yea and no.</l>
+               </lg>
+               <pb facs="tcp:18815:5"/>
+               <lg>
+                  <l>But there be ſome,</l>
+                  <l>In chriſtendome,</l>
+                  <l>That are malefactours:</l>
+                  <l>And theſe will ſay,</l>
+                  <l>We runne away,</l>
+                  <l>From the perſecutours.</l>
+               </lg>
+               <lg>
+                  <l>When they halfe wood,</l>
+                  <l>Flée from the good</l>
+                  <l>Shepherdes, that will not ſée,</l>
+                  <l>The tender lambes,</l>
+                  <l>Kilde, and their dams,</l>
+                  <l>That Chriſt bought on the trée.</l>
+               </lg>
+               <lg>
+                  <l>All this they teach,</l>
+                  <l>And to vs preach,</l>
+                  <l>Theſe things men muſt beleue:</l>
+                  <l>Yea this may not,</l>
+                  <l>Be ſticked at,</l>
+                  <l>To theſe things me<g ref="char:cmbAbbrStroke">̄</g> muſt cleue.</l>
+               </lg>
+               <lg>
+                  <l>Alas the while,</l>
+                  <l>How they begile,</l>
+                  <l>The ſilly ſoules that can:</l>
+                  <l>By this meanes know,</l>
+                  <l>Little I trowe,</l>
+                  <l>Of the faith chriſtian.</l>
+               </lg>
+               <lg>
+                  <l>For Chriſt ſaith that,</l>
+                  <l>His ſecte ſhall not,</l>
+                  <pb facs="tcp:18815:5"/>
+                  <l>Shed bloud but ſhall ſuffer:</l>
+                  <l>All tiranny,</l>
+                  <l>And vilany,</l>
+                  <l>And be no reuenger.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore I dare,</l>
+                  <l>Say that the warre,</l>
+                  <l>Wherof Chriſt prophecied:</l>
+                  <l>When eche brother,</l>
+                  <l>Should ſlay other,</l>
+                  <l>Is euen now fulfilled.</l>
+               </lg>
+               <lg>
+                  <l>For we may ſée,</l>
+                  <l>That now there bée,</l>
+                  <l>Diuers opinions:</l>
+                  <l>Diuers beleues,</l>
+                  <l>Wherto men cleues,</l>
+                  <l>In diuers regions.</l>
+               </lg>
+               <lg>
+                  <l>And eche man will,</l>
+                  <l>His brother kill,</l>
+                  <l>Ghoſtly and then be glad:</l>
+                  <l>As though he were,</l>
+                  <l>Worthy to heare,</l>
+                  <l>Great praiſe for works ſo bad.</l>
+               </lg>
+               <lg>
+                  <l>One ſort doth teach,</l>
+                  <l>And to vs preache,</l>
+                  <l>That works muſt make vs frée,</l>
+                  <l>From mortall ſinne,</l>
+                  <pb facs="tcp:18815:6"/>
+                  <l>That we are in,</l>
+                  <l>If we will ſaued be.</l>
+               </lg>
+               <lg>
+                  <l>For thus they ſay,</l>
+                  <l>
+                     <hi>Michaell</hi> ſhall way,</l>
+                  <l>Vs in his balaunce two:</l>
+                  <l>Where ſhall be had,</l>
+                  <l>Both good and bad,</l>
+                  <l>Workes that we haue ydo.</l>
+               </lg>
+               <lg>
+                  <l>If the better,</l>
+                  <l>Be heauier,</l>
+                  <l>Then ſhall we liue for aye:</l>
+                  <l>But if our ſinne,</l>
+                  <l>The better winne,</l>
+                  <l>Then are we like to paye.</l>
+               </lg>
+               <lg>
+                  <l>They haue no eyes,</l>
+                  <l>On gods mercies,</l>
+                  <l>But on the equall waight:</l>
+                  <l>For they ſay plaine,</l>
+                  <l>They are certaine,</l>
+                  <l>Gods iudgeme<g ref="char:cmbAbbrStroke">̄</g>t ſhal be ſtraight</l>
+               </lg>
+               <lg>
+                  <l>For Chriſt hath ſayd,</l>
+                  <l>We wyll be payd,</l>
+                  <l>According to our workes:</l>
+                  <l>Wherfore eche ſlaue,</l>
+                  <l>Shall buffets haue,</l>
+                  <l>That in his ſeruice lurkes.</l>
+               </lg>
+               <pb facs="tcp:18815:6"/>
+               <lg>
+                  <l>And when they fynde,</l>
+                  <l>One to their minde,</l>
+                  <l>That will to them applie:</l>
+                  <l>Then they reioyce,</l>
+                  <l>With heart and voyce,</l>
+                  <l>And ſhew him curteſie.</l>
+               </lg>
+               <lg>
+                  <l>The other ſyde,</l>
+                  <l>Can not abide,</l>
+                  <l>To heare of workes at all:</l>
+                  <l>For Gods mercie,</l>
+                  <l>Say they ſhall bie,</l>
+                  <l>All them frée that are thrall.</l>
+               </lg>
+               <lg>
+                  <l>Chriſt ſhed his bloud,</l>
+                  <l>Vpon the Roode,</l>
+                  <l>For that intent onely:</l>
+                  <l>We muſt graunt then,</l>
+                  <l>All kindes of men,</l>
+                  <l>Muſt nedes be ſaued thereby.</l>
+               </lg>
+               <lg>
+                  <l>All murderers,</l>
+                  <l>Aduouterers,</l>
+                  <l>Theues, robbers, and ill men:</l>
+                  <l>Shall by his bloude,</l>
+                  <l>Shed on the Roode</l>
+                  <l>Of heauen be right certen.</l>
+               </lg>
+               <lg>
+                  <l>Thus they ſay all,</l>
+                  <l>And him they call,</l>
+                  <pb facs="tcp:18815:7"/>
+                  <l>A perfect chriſtian:</l>
+                  <l>That will apply</l>
+                  <l>To their foly,</l>
+                  <l>And a right honeſt man.</l>
+               </lg>
+               <lg>
+                  <l>Thus on eche ſide,</l>
+                  <l>Both ſhoote to wide,</l>
+                  <l>Of the pricke, for the one</l>
+                  <l>Saith, workes is all,</l>
+                  <l>That ſaue the thrall,</l>
+                  <l>The other wil haue none.</l>
+               </lg>
+               <lg>
+                  <l>Of theſe eche man,</l>
+                  <l>Doth what he can,</l>
+                  <l>To kill his brothers ſoule:</l>
+                  <l>Eche giueth his mynde,</l>
+                  <l>Such for to fynde,</l>
+                  <l>As will not him controle.</l>
+               </lg>
+               <lg>
+                  <l>The middle ſorte,</l>
+                  <l>That doth exhorte,</l>
+                  <l>All men to liue godly:</l>
+                  <l>And to thinke that,</l>
+                  <l>Their worke ſhall not,</l>
+                  <l>Saue them but Gods mercy,</l>
+               </lg>
+               <lg>
+                  <l>Are they that beare,</l>
+                  <l>The burden here,</l>
+                  <l>For both hate them to death:</l>
+                  <l>Their whole intent,</l>
+                  <pb facs="tcp:18815:7"/>
+                  <l>Is to inuent,</l>
+                  <l>Some way to ſtop their breath.</l>
+               </lg>
+               <lg>
+                  <l>Thus eche brother,</l>
+                  <l>Killeth other,</l>
+                  <l>Some the fleſh, ſome the ſpirite</l>
+                  <l>So that I dare,</l>
+                  <l>Call this the warre,</l>
+                  <l>Wherof the Prophets write.</l>
+               </lg>
+               <lg>
+                  <l>For ſince kings coulde,</l>
+                  <l>As I haue tolde,</l>
+                  <l>Haue men of warre to fight:</l>
+                  <l>With wicked will,</l>
+                  <l>They haue ſought ſtill,</l>
+                  <l>To win much grou<g ref="char:cmbAbbrStroke">̄</g>d by might.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>ij.</head>
+               <lg>
+                  <l>AS for famine,</l>
+                  <l>Such now is ſéene,</l>
+                  <l>As erſt hath not bene knowe<g ref="char:cmbAbbrStroke">̄</g>:</l>
+                  <l>Both poore and riche,</l>
+                  <l>Periſhe aliche,</l>
+                  <l>No ſéede growes that is ſowen</l>
+               </lg>
+               <lg>
+                  <l>By this I meane,</l>
+                  <l>Ghoſtly famine,</l>
+                  <l>For lacke of ghoſtly foode:</l>
+                  <l>The heauenly fielde,</l>
+                  <pb facs="tcp:18815:8"/>
+                  <l>Lye doth vntilde,</l>
+                  <l>And brings forth nothing good.</l>
+               </lg>
+               <lg>
+                  <l>If any ſowe,</l>
+                  <l>They will not bowe,</l>
+                  <l>But ſtiffely ſcatter ſéedes:</l>
+                  <l>Setting no hand,</l>
+                  <l>To tyll the land,</l>
+                  <l>So nought growth vp but wéedes.</l>
+               </lg>
+               <lg>
+                  <l>Yet in churches,</l>
+                  <l>Gods worde lurches,</l>
+                  <l>In chaines or in a cage:</l>
+                  <l>But no man may,</l>
+                  <l>Theron hand lay,</l>
+                  <l>That hath none heritage.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Iames</hi> writeth this,</l>
+                  <l>With God there is,</l>
+                  <l>To riches no reſpecte:</l>
+                  <l>His worde would he,</l>
+                  <l>Knowen for to be,</l>
+                  <l>To all his true electe.</l>
+               </lg>
+               <lg>
+                  <l>Further he ſaith,</l>
+                  <l>Moſt riche in faith,</l>
+                  <l>Are ſome of the baſe ſort:</l>
+                  <l>Whome to repell,</l>
+                  <l>From the Goſpell,</l>
+                  <l>Gods worde will not ſupporte.</l>
+               </lg>
+               <pb facs="tcp:18815:8"/>
+               <lg>
+                  <l>Know we may ſoone,</l>
+                  <l>Who hath this done,</l>
+                  <l>Satan no doubt it is:</l>
+                  <l>That by this way,</l>
+                  <l>He might decay,</l>
+                  <l>Chriſtes faith and ſtabliſh his.</l>
+               </lg>
+               <lg>
+                  <l>For he knoweth wel,</l>
+                  <l>If the Goſpell,</l>
+                  <l>Might raigne among the poore:</l>
+                  <l>They would ſoone know,</l>
+                  <l>Them to follow,</l>
+                  <l>That enter by the doore.</l>
+               </lg>
+               <lg>
+                  <l>He knoweth riche men,</l>
+                  <l>Reade now and then,</l>
+                  <l>For pleaſure and repaſt:</l>
+                  <l>But to redreſſe,</l>
+                  <l>Their wickedneſſe,</l>
+                  <l>Few of them do make haſt.</l>
+               </lg>
+               <lg>
+                  <l>For if they would,</l>
+                  <l>No poore men ſhould,</l>
+                  <l>Among them ſtarue for foode:</l>
+                  <l>Into priſon,</l>
+                  <l>None ſhould be done,</l>
+                  <l>For det or worldly good.</l>
+               </lg>
+               <lg>
+                  <l>But their riches,</l>
+                  <l>Doth them poſſeſſe,</l>
+                  <pb facs="tcp:18815:9"/>
+                  <l>And hath them in a bande:</l>
+                  <l>Witneſſe I can,</l>
+                  <l>That riche yong man,</l>
+                  <l>Whom Chriſt bad ſell his land,</l>
+               </lg>
+               <lg>
+                  <l>With heauy hart,</l>
+                  <l>Away he ſtart,</l>
+                  <l>As one that thought it deare,</l>
+                  <l>Heauen to poſſeſſe,</l>
+                  <l>For his richeſſe,</l>
+                  <l>And liue a begger here.</l>
+               </lg>
+               <lg>
+                  <l>How many now,</l>
+                  <l>Would diſſalow,</l>
+                  <l>This yong mans ſapience:</l>
+                  <l>Aſke them that bée,</l>
+                  <l>Of high degrée,</l>
+                  <l>And haue great ſtore of pence</l>
+               </lg>
+               <lg>
+                  <l>Some wil you tell,</l>
+                  <l>That the Goſpell,</l>
+                  <l>Commaundeth no ſuch thing,</l>
+                  <l>That they ſhould féede,</l>
+                  <l>Such as haue néede,</l>
+                  <l>And then go on begging.</l>
+               </lg>
+               <lg>
+                  <l>Ful true it is,</l>
+                  <l>Chriſt ſaith not this,</l>
+                  <l>Giue all and beg thy ſelfe:</l>
+                  <l>But thou therfore,</l>
+                  <pb facs="tcp:18815:9"/>
+                  <l>Maiſt not make ſtore,</l>
+                  <l>And whord this worldly pelfe.</l>
+               </lg>
+               <lg>
+                  <l>But thou muſt ſpend,</l>
+                  <l>As God doth ſend,</l>
+                  <l>To féede thy familie:</l>
+                  <l>In thine aray,</l>
+                  <l>Go not too gay,</l>
+                  <l>But after thy degrée.</l>
+               </lg>
+               <lg>
+                  <l>Loke what is more,</l>
+                  <l>Left in thy ſtore,</l>
+                  <l>Than wil ſuffiſe to this:</l>
+                  <l>He that hath none,</l>
+                  <l>Muſt liue theron,</l>
+                  <l>It is not thine but his.</l>
+               </lg>
+               <lg>
+                  <l>This to withholde,</l>
+                  <l>If thou be bolde,</l>
+                  <l>Or to ſpend it in waſte:</l>
+                  <l>Thinke not but hée,</l>
+                  <l>That lent it thée,</l>
+                  <l>Will call for it in haſte.</l>
+               </lg>
+               <lg>
+                  <l>For if that thou,</l>
+                  <l>Haue ſcarce ynowe,</l>
+                  <l>To maintaine thine eſtate:</l>
+                  <l>Yet if thou ſée,</l>
+                  <l>The poore néedie,</l>
+                  <l>Of that thou muſt abate.</l>
+               </lg>
+               <pb facs="tcp:18815:10"/>
+               <lg>
+                  <l>If that the price,</l>
+                  <l>Of vitailes riſe,</l>
+                  <l>So that they muſt be ſkant:</l>
+                  <l>The ſtewardes diſhe,</l>
+                  <l>Muſt diminiſhe,</l>
+                  <l>Before the houſholde wante.</l>
+               </lg>
+               <lg>
+                  <l>This worlde cal I,</l>
+                  <l>Gods familie,</l>
+                  <l>Wherin the riche men bée:</l>
+                  <l>As ſtewardes ſtoute,</l>
+                  <l>To rule the route,</l>
+                  <l>And ſuccour pouertie.</l>
+               </lg>
+               <lg>
+                  <l>Whom they do ayde,</l>
+                  <l>That is decayde,</l>
+                  <l>I thinke no man can tell:</l>
+                  <l>But if ye geſſe,</l>
+                  <l>Whom they oppreſſe,</l>
+                  <l>The poore know that ful well.</l>
+               </lg>
+               <lg>
+                  <l>The cauſe of this,</l>
+                  <l>Is Auarice,</l>
+                  <l>That raigneth in the cleargy:</l>
+                  <l>Whoſe life ſhould ſhyne,</l>
+                  <l>Before mens eyne,</l>
+                  <l>As <hi>Phoebus</hi> in the ſky.</l>
+               </lg>
+               <lg>
+                  <l>But diueliſhe pride,</l>
+                  <l>Hath bene their guide,</l>
+                  <pb facs="tcp:18815:10"/>
+                  <l>And brought them vp ſo hie,</l>
+                  <l>That they know not,</l>
+                  <l>Their owne eſtate,</l>
+                  <l>But ſéeke this worldes glorie.</l>
+               </lg>
+               <lg>
+                  <l>Tenthes of increaſe,</l>
+                  <l>By right ſucceſſe,</l>
+                  <l>They claime &amp; cal them theirs:</l>
+                  <l>But Peter knew,</l>
+                  <l>No ſuch thing dew,</l>
+                  <l>To him nor to his heyres.</l>
+               </lg>
+               <lg>
+                  <l>But if we might,</l>
+                  <l>Sée that their light,</l>
+                  <l>Did ſhine lyke Peter &amp; Paule,</l>
+                  <l>Then would we not,</l>
+                  <l>Debarre them that,</l>
+                  <l>But rather giue them all.</l>
+               </lg>
+               <lg>
+                  <l>Them to defame,</l>
+                  <l>I were to blame,</l>
+                  <l>And call them Phariſeis:</l>
+                  <l>Vnleſſe I knew,</l>
+                  <l>It to be true,</l>
+                  <l>By their owne witneſſes.</l>
+               </lg>
+               <lg>
+                  <l>When they do preach,</l>
+                  <l>And Gods worde teach,</l>
+                  <l>Vſe they not to ſay ſo?</l>
+                  <l>Do as we ſay,</l>
+                  <pb facs="tcp:18815:11"/>
+                  <l>But turne away,</l>
+                  <l>From that ye ſée vs do.</l>
+               </lg>
+               <lg>
+                  <l>The ſame counſell,</l>
+                  <l>You know full well,</l>
+                  <l>Chriſt gaue to his elect:</l>
+                  <l>Willing that they,</l>
+                  <l>Should turne away,</l>
+                  <l>From the Phariſeis ſecte.</l>
+               </lg>
+               <lg>
+                  <l>Iudge who that will,</l>
+                  <l>If I do ill,</l>
+                  <l>To call them Phariſeis:</l>
+                  <l>That vſe to preach,</l>
+                  <l>And Gods worde teach,</l>
+                  <l>Walking in fleſhly waies.</l>
+               </lg>
+               <lg>
+                  <l>By them <hi>Paule</hi> ſaith,</l>
+                  <l>That preach the faith,</l>
+                  <l>And liue fleſhly themſelues,</l>
+                  <l>Gods worde is blamed,</l>
+                  <l>And much defamed,</l>
+                  <l>Among the infidels.</l>
+               </lg>
+               <lg>
+                  <l>All preachers would,</l>
+                  <l>Euer be bolde,</l>
+                  <l>To ſay come after vs:</l>
+                  <l>Euen as ye ſée,</l>
+                  <l>Vs for to bée,</l>
+                  <l>Seruaunts of Chriſt Ieſus.</l>
+               </lg>
+               <pb facs="tcp:18815:11"/>
+               <lg>
+                  <l>For if they ſay,</l>
+                  <l>This is the way,</l>
+                  <l>Wherin Chriſtes flock muſt walke:</l>
+                  <l>Vnleſſe they go,</l>
+                  <l>Themſelues alſo,</l>
+                  <l>Few will beleue their talke.</l>
+               </lg>
+               <lg>
+                  <l>This pondered,</l>
+                  <l>Holy <hi>Dauid</hi>
+                  </l>
+                  <l>Saith, ſinners may not mell:</l>
+                  <l>For ſuch as bée,</l>
+                  <l>Of infamie,</l>
+                  <l>Diſhoneſt Gods Goſpell.</l>
+               </lg>
+               <lg>
+                  <l>This ſéemeth plaine,</l>
+                  <l>Men to reſtraine,</l>
+                  <l>That none ſhould enterpriſe:</l>
+                  <l>In hand to hent,</l>
+                  <l>Gods Teſtament,</l>
+                  <l>To preach in any wiſe.</l>
+               </lg>
+               <lg>
+                  <l>For on the ground,</l>
+                  <l>None can be found,</l>
+                  <l>Whome ſinne hath not defilde:</l>
+                  <l>You may me truſt,</l>
+                  <l>All are vniuſt,</l>
+                  <l>Both man woman and childe.</l>
+               </lg>
+               <lg>
+                  <l>Yet ſome there bée,</l>
+                  <l>In whom we ſée,</l>
+                  <pb facs="tcp:18815:12"/>
+                  <l>No maner wickedneſſe:</l>
+                  <l>But to our ſight,</l>
+                  <l>Both day and night,</l>
+                  <l>Their vertues do increaſe,</l>
+               </lg>
+               <lg>
+                  <l>Of theſe we ſée,</l>
+                  <l>No great plentie,</l>
+                  <l>The pitie is the more:</l>
+                  <l>But when we will,</l>
+                  <l>Gods worde fulfill,</l>
+                  <l>We ſhall haue better ſtore.</l>
+               </lg>
+               <lg>
+                  <l>But whiles we are,</l>
+                  <l>So ful of care,</l>
+                  <l>For worldly vanities:</l>
+                  <l>God will vs ſend,</l>
+                  <l>Few to amend,</l>
+                  <l>Our great enormities.</l>
+               </lg>
+               <lg>
+                  <l>Yea vnleſſe,</l>
+                  <l>Our vice do ceaſſe,</l>
+                  <l>And we for mercy call:</l>
+                  <l>Shortly to preach,</l>
+                  <l>And Gods worde teach,</l>
+                  <l>We ſhal haue none at all.</l>
+               </lg>
+               <lg>
+                  <l>For ſuch men as,</l>
+                  <l>Do little paſſe,</l>
+                  <l>To pacify Gods ire:</l>
+                  <l>God wil forſake,</l>
+                  <pb facs="tcp:18815:12"/>
+                  <l>And them betake,</l>
+                  <l>To their owne hartes deſire.</l>
+               </lg>
+               <lg>
+                  <l>They ſhall promote,</l>
+                  <l>Eche leude harlote,</l>
+                  <l>And giue to him credence:</l>
+                  <l>But all that come,</l>
+                  <l>To preach wiſedome,</l>
+                  <l>Shall be put to ſilence.</l>
+               </lg>
+               <lg>
+                  <l>Follie it were,</l>
+                  <l>For them that feare,</l>
+                  <l>Of Prelates to be ſhent:</l>
+                  <l>For to applie,</l>
+                  <l>This prophecie,</l>
+                  <l>Vnto this time preſent.</l>
+               </lg>
+               <lg>
+                  <l>But in ſuch caſe,</l>
+                  <l>No man may paſſe,</l>
+                  <l>Fauour to loſe or winne:</l>
+                  <l>Without reſpect,</l>
+                  <l>Of any ſect,</l>
+                  <l>Gods worde rebuketh ſinne.</l>
+               </lg>
+               <lg>
+                  <l>Ceaſſe not to cry,</l>
+                  <l>Saith <hi>Eſay,</hi>
+                  </l>
+                  <l>Tell my people their owne:</l>
+                  <l>Extol thy voyce,</l>
+                  <l>With as much noyſe,</l>
+                  <l>As if trumpets were blowne.</l>
+               </lg>
+               <pb facs="tcp:18815:13"/>
+               <lg>
+                  <l>Here ſpeaketh hée,</l>
+                  <l>Of no degrée,</l>
+                  <l>Of lay men nor of clarkes:</l>
+                  <l>But of them all,</l>
+                  <l>In generall,</l>
+                  <l>That do worke wicked warks.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore all ye,</l>
+                  <l>That faithfull be,</l>
+                  <l>And beare of Chriſt the name:</l>
+                  <l>Do not diſdaine,</l>
+                  <l>Though I ſpeake plaine,</l>
+                  <l>Since ſinne is worthy blame.</l>
+               </lg>
+               <lg>
+                  <l>All ſuch as bée,</l>
+                  <l>Of the cleargie,</l>
+                  <l>And liue as Chriſt hath taught:</l>
+                  <l>My penne ſhal praiſe,</l>
+                  <l>And them diſpleaſe,</l>
+                  <l>That willingly do naught.</l>
+               </lg>
+               <lg>
+                  <l>Of whome no doubte,</l>
+                  <l>A full great route,</l>
+                  <l>Within this realme do dwell:</l>
+                  <l>But them to know,</l>
+                  <l>My penne I trow,</l>
+                  <l>Shall teache you all full well.</l>
+               </lg>
+               <lg>
+                  <l>Firſt marke all ſuch,</l>
+                  <l>As with one church,</l>
+                  <pb facs="tcp:18815:13"/>
+                  <l>Hold not themſelues content:</l>
+                  <l>They are the chiefe,</l>
+                  <l>Of miſſebeliefe</l>
+                  <l>From Satan to vs ſent.</l>
+               </lg>
+               <lg>
+                  <l>An vnion,</l>
+                  <l>Of two makes one,</l>
+                  <l>But a pluralitie:</l>
+                  <l>With a <hi>tot quot,</hi>
+                  </l>
+                  <l>Full wel ye wot,</l>
+                  <l>Bringeth them to high degrée.</l>
+               </lg>
+               <lg>
+                  <l>If a riche cobbe,</l>
+                  <l>Beget a lobbe,</l>
+                  <l>The wiſeſt of a thraue:</l>
+                  <l>For him with golde,</l>
+                  <l>He wil be bolde,</l>
+                  <l>A fat parſuage to haue.</l>
+               </lg>
+               <lg>
+                  <l>Then this cobbe will,</l>
+                  <l>That pariſh pill,</l>
+                  <l>Of corne cattell and ſtraw:</l>
+                  <l>Whiles the yong foole,</l>
+                  <l>Is at the ſchoole,</l>
+                  <l>To learne a point of the law.</l>
+               </lg>
+               <lg>
+                  <l>When men hilde ſhéepe,</l>
+                  <l>That could not créepe,</l>
+                  <l>He will haue the tenth fell:</l>
+                  <l>As due increaſe,</l>
+                  <pb facs="tcp:18815:14"/>
+                  <l>Of their riches,</l>
+                  <l>Bicauſe they do them ſell.</l>
+               </lg>
+               <lg>
+                  <l>Alſo at Lent,</l>
+                  <l>When wiues repent,</l>
+                  <l>One peny muſt they pay:</l>
+                  <l>For hearbes ye wot,</l>
+                  <l>That thickes their pot,</l>
+                  <l>And make their houſes gay.</l>
+               </lg>
+               <lg>
+                  <l>But when this Aſſe,</l>
+                  <l>Hath ſong a maſſe,</l>
+                  <l>Of God in Trinitie:</l>
+                  <l>For to encreaſe,</l>
+                  <l>Worldly riches,</l>
+                  <l>Shall be all his ſtudie.</l>
+               </lg>
+               <lg>
+                  <l>Foure times a yere,</l>
+                  <l>You ſhall him heare,</l>
+                  <l>Full clarkely teach his flocke:</l>
+                  <l>What ſinne it is,</l>
+                  <l>To tithe amiſſe,</l>
+                  <l>And with Gods part to mocke.</l>
+               </lg>
+               <lg>
+                  <l>At Eaſter whan,</l>
+                  <l>Eche chriſtian,</l>
+                  <l>To Gods ſupper ſhall come:</l>
+                  <l>No ſinne ſhall let,</l>
+                  <l>Him for to eate,</l>
+                  <l>So that he pay the ſumme.</l>
+               </lg>
+               <pb facs="tcp:18815:14"/>
+               <lg>
+                  <l>But all that bée,</l>
+                  <l>In pouertie,</l>
+                  <l>And haue nothing to pay:</l>
+                  <l>He will refuſe,</l>
+                  <l>As curſed Iewes,</l>
+                  <l>That neglect Eaſter day.</l>
+               </lg>
+               <lg>
+                  <l>Thus taketh hée,</l>
+                  <l>As ye may ſée,</l>
+                  <l>Gods parte of all degrées:</l>
+                  <l>To ſcoure his throte,</l>
+                  <l>And furre his cote,</l>
+                  <l>But God for colde ſhall fréeſe.</l>
+               </lg>
+               <lg>
+                  <l>Perchaunce his kinne,</l>
+                  <l>Shall ſomewhat winne,</l>
+                  <l>If that they pleaſe him well:</l>
+                  <l>But for moſt part,</l>
+                  <l>Their tender hart,</l>
+                  <l>Pitieth ſome faire damoſell.</l>
+               </lg>
+               <lg>
+                  <l>Few men haue ſéene,</l>
+                  <l>Grace to them giuen,</l>
+                  <l>Their tithes well to beſtow:</l>
+                  <l>That haue bene bolde,</l>
+                  <l>Into the folde,</l>
+                  <l>To climbe by the window.</l>
+               </lg>
+               <lg>
+                  <l>For their pretence.</l>
+                  <l>Is to get pence,</l>
+                  <pb facs="tcp:18815:15"/>
+                  <l>To ſpend at their owne will:</l>
+                  <l>They take no héede,</l>
+                  <l>The flocke to féede,</l>
+                  <l>But let them famiſhe ſtill.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore all ye,</l>
+                  <l>That fathers be,</l>
+                  <l>Inſtruct your babes in youth:</l>
+                  <l>That they may flie,</l>
+                  <l>All Simonie,</l>
+                  <l>And follow the Lordes truth.</l>
+               </lg>
+               <lg>
+                  <l>Although children,</l>
+                  <l>Do Gods law learne,</l>
+                  <l>Euen from their mothers laps:</l>
+                  <l>Let none be ſtalde,</l>
+                  <l>Til they be calde,</l>
+                  <l>For feare of afterclaps.</l>
+               </lg>
+               <lg>
+                  <l>For if the childe,</l>
+                  <l>Wanton and wilde,</l>
+                  <l>Paſſe not vpon his ſhéepe:</l>
+                  <l>For them that ſtray,</l>
+                  <l>He muſt nedes pay,</l>
+                  <l>That gaue them him to kéepe.</l>
+               </lg>
+               <lg>
+                  <l>But tell me than,</l>
+                  <l>Thou foliſhe man,</l>
+                  <l>Who ſhal thy cauſe defende:</l>
+                  <l>When thou ſhalt ſtand,</l>
+                  <pb facs="tcp:18815:15"/>
+                  <l>At the left hand,</l>
+                  <l>With Satan for to wend.</l>
+               </lg>
+               <lg>
+                  <l>Thy men of law,</l>
+                  <l>Thou fooliſh daw,</l>
+                  <l>Whom thou haſt in a fée:</l>
+                  <l>Dare ſhew no face,</l>
+                  <l>Within that place,</l>
+                  <l>To ſpeake one word for thée.</l>
+               </lg>
+               <lg>
+                  <l>For they haue more,</l>
+                  <l>To anſwere for,</l>
+                  <l>Than they can wel aweld:</l>
+                  <l>Their conſcience ſhall,</l>
+                  <l>Accuſe them all,</l>
+                  <l>For that they haue miſſe meld.</l>
+               </lg>
+               <lg>
+                  <l>They that for golde,</l>
+                  <l>To thée haue ſolde,</l>
+                  <l>Writings of preſentation:</l>
+                  <l>May looke to dwell,</l>
+                  <l>With thée in hell,</l>
+                  <l>Among the wicked nation.</l>
+               </lg>
+               <lg>
+                  <l>Biſhops alſo,</l>
+                  <l>That bad thée go,</l>
+                  <l>The rope in hand to take:</l>
+                  <l>Are like to fall,</l>
+                  <l>Depeſt of all,</l>
+                  <l>Into the fiery lake.</l>
+               </lg>
+               <pb facs="tcp:18815:16"/>
+               <lg>
+                  <l>For they are ſet,</l>
+                  <l>Treaſon to let,</l>
+                  <l>As watchmen on the wall:</l>
+                  <l>Which when they ſpie,</l>
+                  <l>The enimie,</l>
+                  <l>Should on their fellowes call.</l>
+               </lg>
+               <lg>
+                  <l>But if the watch,</l>
+                  <l>Of treaſon ſmatch,</l>
+                  <l>And helpe the wall to ſcale:</l>
+                  <l>Into priſon,</l>
+                  <l>They muſt be done,</l>
+                  <l>No man may be their bale.</l>
+               </lg>
+               <lg>
+                  <l>No tirannie,</l>
+                  <l>Can make them lie,</l>
+                  <l>In paines worthy their faute:</l>
+                  <l>That from the towne,</l>
+                  <l>Set ladders downe,</l>
+                  <l>To them that giue the ſaute.</l>
+               </lg>
+               <lg>
+                  <l>Then may we geſſe,</l>
+                  <l>In what diſtreſſe:</l>
+                  <l>Such leude biſhops ſhall ſtand:</l>
+                  <l>When Chriſt ſhal come,</l>
+                  <l>At the laſt dome,</l>
+                  <l>By fire to iudge the land,</l>
+               </lg>
+               <lg>
+                  <l>For ſuch as would,</l>
+                  <l>Into the folde,</l>
+                  <pb facs="tcp:18815:16"/>
+                  <l>To fill their gréedie mawes:</l>
+                  <l>Biſhops haue ſtalde,</l>
+                  <l>And made them calde,</l>
+                  <l>True preachers of gods lawes.</l>
+               </lg>
+               <lg>
+                  <l>But now they vſe,</l>
+                  <l>Them to excuſe,</l>
+                  <l>As they were yong Pilates:</l>
+                  <l>Saying that they,</l>
+                  <l>Muſt néedes obey,</l>
+                  <l>The temporall magiſtrates.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore if they,</l>
+                  <l>Preſent a boy,</l>
+                  <l>A verlet or a loute:</l>
+                  <l>Them to admit,</l>
+                  <l>What néedeth it,</l>
+                  <l>Biſhops to ſtand in dowte.</l>
+               </lg>
+               <lg>
+                  <l>The patrone ſhall</l>
+                  <l>Anſwere for all,</l>
+                  <l>Biſhops ſhall beare no blame:</l>
+                  <l>So they fulfill,</l>
+                  <l>The patrones will</l>
+                  <l>And ſubſcribe to the ſame.</l>
+               </lg>
+               <lg>
+                  <l>They muſt therfore,</l>
+                  <l>Loke for no more,</l>
+                  <l>Then the patrons owne ſeale,</l>
+                  <l>Which from all charge,</l>
+                  <pb facs="tcp:18815:17"/>
+                  <l>Setteth then at large,</l>
+                  <l>Patrons with God muſt deale.</l>
+               </lg>
+               <lg>
+                  <l>So that they may,</l>
+                  <l>Auoide alway,</l>
+                  <l>The daunger of the law:</l>
+                  <l>What forceth it,</l>
+                  <l>Though they admit,</l>
+                  <l>Such as they neuer ſaw.</l>
+               </lg>
+               <lg>
+                  <l>A yong princockes,</l>
+                  <l>Sir Iohn ſmelſmockes,</l>
+                  <l>A piece of fleſh alone:</l>
+                  <l>To ſing and daunce,</l>
+                  <l>And make paſtaunce,</l>
+                  <l>With Tib, Ciſly, and Ione.</l>
+               </lg>
+               <lg>
+                  <l>A gameſter wiſe,</l>
+                  <l>In cardes and dyce,</l>
+                  <l>And all games of the ſame:</l>
+                  <l>A cockrel rancke,</l>
+                  <l>Fit for the bancke,</l>
+                  <l>A ruffian paſt all ſhame.</l>
+               </lg>
+               <lg>
+                  <l>A ſwearer good,</l>
+                  <l>By bones and blood,</l>
+                  <l>And many othes moe,</l>
+                  <l>Ready to fight</l>
+                  <l>Both day and night,</l>
+                  <l>Where he ſhall ride or go.</l>
+               </lg>
+               <pb facs="tcp:18815:17"/>
+               <lg>
+                  <l>One that is wonte,</l>
+                  <l>To hawke and hunte,</l>
+                  <l>And kéepe a brace of houndes:</l>
+                  <l>A ſteward ſtout,</l>
+                  <l>To ride about,</l>
+                  <l>To ſée his maiſters groundes.</l>
+               </lg>
+               <lg>
+                  <l>An hurly burle,</l>
+                  <l>A farting churle,</l>
+                  <l>An whorder vp of grotes,</l>
+                  <l>A cruell wretch,</l>
+                  <l>That doth not retch,</l>
+                  <l>To hang men by the throtes.</l>
+               </lg>
+               <lg>
+                  <l>A lobbe a loute,</l>
+                  <l>A malmeſey ſnoute,</l>
+                  <l>A drouſie dronken face:</l>
+                  <l>A belly ſwaine,</l>
+                  <l>A féeble braine,</l>
+                  <l>One voide of all Gods grace.</l>
+               </lg>
+               <lg>
+                  <l>The biſhop muſt,</l>
+                  <l>The patron truſt,</l>
+                  <l>That gaue the preſentation:</l>
+                  <l>Although he ſée,</l>
+                  <l>The ſuiter bée,</l>
+                  <l>Of diueliſh conuerſation.</l>
+               </lg>
+               <lg>
+                  <l>For if they ſhould,</l>
+                  <l>Be found ſo bolde,</l>
+                  <pb facs="tcp:18815:18"/>
+                  <l>To checke my lordes chaplen:</l>
+                  <l>Thinke you they might,</l>
+                  <l>Fynde it ſo light,</l>
+                  <l>To promote their kinſmen.</l>
+               </lg>
+               <lg>
+                  <l>No no my frende,</l>
+                  <l>Lordes wil not bende,</l>
+                  <l>And prieſtes will not diſpleaſe:</l>
+                  <l>They thinke it beſt,</l>
+                  <l>To liue in reſt,</l>
+                  <l>That riches may increaſe,</l>
+               </lg>
+               <lg>
+                  <l>So Lordes may haue,</l>
+                  <l>All that they craue,</l>
+                  <l>For prieſts that do them ſerue:</l>
+                  <l>Tithe lambe and wooll,</l>
+                  <l>Great houſes full,</l>
+                  <l>But pouertie ſhall ſterue.</l>
+               </lg>
+               <lg>
+                  <l>To féede the ſhepe,</l>
+                  <l>Or houſe to kepe,</l>
+                  <l>Such prieſtes do not intend,</l>
+                  <l>But when they looke,</l>
+                  <l>Their counting booke,</l>
+                  <l>Then for their rents they ſend.</l>
+               </lg>
+               <lg>
+                  <l>The patrone will,</l>
+                  <l>Be Farmer ſtill,</l>
+                  <l>If that he may ought winne:</l>
+                  <l>Or elſe ſome knaue</l>
+                  <pb facs="tcp:18815:18"/>
+                  <l>Shall the gaines haue,</l>
+                  <l>That is of the prieſtes kinne.</l>
+               </lg>
+               <lg>
+                  <l>Some prieſt hath two,</l>
+                  <l>Some thrée ſome moe,</l>
+                  <l>Some ſixe or ſeuen I trowe:</l>
+                  <l>Beſide odde endes,</l>
+                  <l>Called Prebendes,</l>
+                  <l>With Canonries ye knowe.</l>
+               </lg>
+               <lg>
+                  <l>Fiue hundred pound,</l>
+                  <l>And Curates found,</l>
+                  <l>Some one receiueth clere:</l>
+                  <l>That in houſholde,</l>
+                  <l>I dare be bolde,</l>
+                  <l>Spendeth not ten pound a yere</l>
+               </lg>
+               <lg>
+                  <l>Some other ſpende,</l>
+                  <l>By the yeres ende,</l>
+                  <l>A thouſand pound and more:</l>
+                  <l>But ſuch I trowe,</l>
+                  <l>Will not beſtowe,</l>
+                  <l>Ten pound vpon the pore.</l>
+               </lg>
+               <lg>
+                  <l>They bid to feaſtes,</l>
+                  <l>Such maner geſtes,</l>
+                  <l>As wil bid them againe:</l>
+                  <l>They thinke great ſhame,</l>
+                  <l>That blinde and lame,</l>
+                  <l>Should to their court retaine.</l>
+               </lg>
+               <pb facs="tcp:18815:19"/>
+               <lg>
+                  <l>Yet with their ſcraps,</l>
+                  <l>Sometime perhaps,</l>
+                  <l>They ſtuffe a beggers bagge:</l>
+                  <l>Their dogge ſhal eate,</l>
+                  <l>Much better meate,</l>
+                  <l>Whiles y<hi rend="sup">e</hi> his taile will wagge.</l>
+               </lg>
+               <lg>
+                  <l>In garments gay,</l>
+                  <l>They muſt aray,</l>
+                  <l>Their ſeruantes rufflingly:</l>
+                  <l>And they themſelfe,</l>
+                  <l>May weare no pelfe,</l>
+                  <l>To make them vnprieſtly.</l>
+               </lg>
+               <lg>
+                  <l>Their horſes ſhall,</l>
+                  <l>Be good and tall,</l>
+                  <l>To rid the way at néede:</l>
+                  <l>For when thinges fall,</l>
+                  <l>He muſt haue all,</l>
+                  <l>That can make the beſt ſpéede.</l>
+               </lg>
+               <lg>
+                  <l>To their eſtate,</l>
+                  <l>Cupbordes of plate,</l>
+                  <l>You know are neceſſarie:</l>
+                  <l>For noble men,</l>
+                  <l>Vſe now and then,</l>
+                  <l>With ſuch prelates to tary.</l>
+               </lg>
+               <lg>
+                  <l>They muſt haue wine,</l>
+                  <l>And that full fine,</l>
+                  <pb facs="tcp:18815:19"/>
+                  <l>They muſt ſpare for no coſt.</l>
+                  <l>If they lacke ought,</l>
+                  <l>That may be bought,</l>
+                  <l>Their worſhip is nere loſt.</l>
+               </lg>
+               <lg>
+                  <l>Short tale to make,</l>
+                  <l>They muſt nought lacke,</l>
+                  <l>Fit for a noble man:</l>
+                  <l>Rather they will,</l>
+                  <l>Both polle and pill</l>
+                  <l>And take all that they can.</l>
+               </lg>
+               <lg>
+                  <l>But that they might,</l>
+                  <l>Do this by right:</l>
+                  <l>A law they haue procured:</l>
+                  <l>That ſuch may haue,</l>
+                  <l>Whiles they do craue,</l>
+                  <l>That are to Lordes aſſured.</l>
+               </lg>
+               <lg>
+                  <l>Chaplaines I meane,</l>
+                  <l>To King and Quene,</l>
+                  <l>And other Lordes great:</l>
+                  <l>For a ſmall ſumme,</l>
+                  <l>Doth not become,</l>
+                  <l>One of ſo high eſtate.</l>
+               </lg>
+               <lg>
+                  <l>This law hath made,</l>
+                  <l>Some prieſtes glad,</l>
+                  <l>To cap and knée full lowe:</l>
+                  <l>And to promiſe,</l>
+                  <pb facs="tcp:18815:20"/>
+                  <l>Faithfull ſeruice,</l>
+                  <l>To them they do not knowe.</l>
+               </lg>
+               <lg>
+                  <l>Some paſt all ſhame,</l>
+                  <l>Obtaine the name,</l>
+                  <l>By their importune ſute:</l>
+                  <l>Of kinges chaplens,</l>
+                  <l>And other mens,</l>
+                  <l>Whoſe power is abſolute.</l>
+               </lg>
+               <lg>
+                  <l>Theſe will all take,</l>
+                  <l>And nought forſake,</l>
+                  <l>With mo bagges to the mill:</l>
+                  <l>Lay on their backe,</l>
+                  <l>Till it do cracke,</l>
+                  <l>And yet they will beg ſtill.</l>
+               </lg>
+               <lg>
+                  <l>Theſe tongleſſe dogges,</l>
+                  <l>With heauy clogges,</l>
+                  <l>Can nother bite nor barke:</l>
+                  <l>Neither eſpie,</l>
+                  <l>The enimie,</l>
+                  <l>Their kennels are ſo darke.</l>
+               </lg>
+               <lg>
+                  <l>When they lacke pence,</l>
+                  <l>None reſidence,</l>
+                  <l>Muſt helpe or all is loſte:</l>
+                  <l>For one halfe yere,</l>
+                  <l>They make no chere,</l>
+                  <l>Neither with ſodde nor roſte.</l>
+               </lg>
+               <pb facs="tcp:18815:20"/>
+               <lg>
+                  <l>There be alſo,</l>
+                  <l>Some other moe,</l>
+                  <l>Who<g ref="char:cmbAbbrStroke">̄</g> we call ſeruing prieſtes:</l>
+                  <l>Theſe muſt néedes lurke,</l>
+                  <l>And do no worke,</l>
+                  <l>For filling of their fiſtes.</l>
+               </lg>
+               <lg>
+                  <l>Theſe for ſixe pound,</l>
+                  <l>You ſhall haue bound,</l>
+                  <l>To take the charge of cure,</l>
+                  <l>The perſon may,</l>
+                  <l>Him ſporte and play,</l>
+                  <l>And liue all at pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>But this ſtipend,</l>
+                  <l>Wil not extend,</l>
+                  <l>To ſpend all at their wil:</l>
+                  <l>Both to go gay,</l>
+                  <l>In their aray,</l>
+                  <l>And freſh cuppes for to fil.</l>
+               </lg>
+               <lg>
+                  <l>Some Marchandiſe,</l>
+                  <l>They muſt deuiſe,</l>
+                  <l>To mende their liuing with:</l>
+                  <l>So that they may,</l>
+                  <l>Their hoſtes pay,</l>
+                  <l>For all that ſhe filleth.</l>
+               </lg>
+               <lg>
+                  <l>Hence came trentals,</l>
+                  <l>And long beadrols,</l>
+                  <pb facs="tcp:18815:21"/>
+                  <l>With maſſe pe<g ref="char:cmbAbbrStroke">̄</g>ce &amp; dirge grotes</l>
+                  <l>For if they pray,</l>
+                  <l>They muſt alway,</l>
+                  <l>Haue pence to ſcoure their throtes.</l>
+               </lg>
+               <lg>
+                  <l>I wil not tel,</l>
+                  <l>How they do ſel,</l>
+                  <l>Chriſtes bloud to bie the<g ref="char:cmbAbbrStroke">̄</g> drinke</l>
+                  <l>For if I ſhould,</l>
+                  <l>Some if they could,</l>
+                  <l>Would ſel mine to I thinke.</l>
+               </lg>
+               <lg>
+                  <l>But if they did,</l>
+                  <l>All thinges counted,</l>
+                  <l>Their gains wold be but ſmal:</l>
+                  <l>For they ſhall pay,</l>
+                  <l>At the laſt day,</l>
+                  <l>Euen for the dregges and all.</l>
+               </lg>
+               <lg>
+                  <l>But let this paſſe,</l>
+                  <l>My purpoſe was,</l>
+                  <l>With words plain to expreſſe:</l>
+                  <l>That the cleargy,</l>
+                  <l>Liueth fleſhly,</l>
+                  <l>And myndeth no godlineſſe.</l>
+               </lg>
+               <lg>
+                  <l>God may them ſend,</l>
+                  <l>Grace to amend,</l>
+                  <l>And to ſéeke his glory:</l>
+                  <l>Setting aſide,</l>
+                  <pb facs="tcp:18815:21"/>
+                  <l>All worldly pride,</l>
+                  <l>As vayne and tranſitorie.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall their light,</l>
+                  <l>Shew forth ſo bright,</l>
+                  <l>That all men ſhall be glad:</l>
+                  <l>Them to follow,</l>
+                  <l>As men that know,</l>
+                  <l>The good way from the bad.</l>
+               </lg>
+               <lg>
+                  <l>But whiles we ſée,</l>
+                  <l>Their wayes to bée,</l>
+                  <l>So full of ſtumbling ſtockes:</l>
+                  <l>We thinke the dawes,</l>
+                  <l>Stumble at ſtrawes,</l>
+                  <l>And leape ouer great blockes.</l>
+               </lg>
+               <lg>
+                  <l>Wherby no ſéede,</l>
+                  <l>That is ſowed.</l>
+                  <l>In mans hart taketh roote:</l>
+                  <l>For where <hi>Phoebus,</hi>
+                  </l>
+                  <l>Hath no cleare courſe,</l>
+                  <l>To till it is no boote.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore all ye,</l>
+                  <l>That faithful be,</l>
+                  <l>Pray that preachers may liue:</l>
+                  <l>As Chriſt doth teach,</l>
+                  <l>Elſe when they preach,</l>
+                  <l>No man will them beleue.</l>
+               </lg>
+               <pb facs="tcp:18815:22"/>
+               <lg>
+                  <l>But if their life,</l>
+                  <l>Were without ſtrife,</l>
+                  <l>Though thei preached but ſeld:</l>
+                  <l>I know right well,</l>
+                  <l>They ſhould compell,</l>
+                  <l>The enimies to yelde.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhould famine,</l>
+                  <l>No more be ſéene,</l>
+                  <l>That now raigneth ouer all:</l>
+                  <l>Gods worde ſhould féede,</l>
+                  <l>All that ſtand in néede,</l>
+                  <l>And luſt for foode to call.</l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>3</head>
+               <lg>
+                  <l>PEſtilence alſo,</l>
+                  <l>From vs ſhould go,</l>
+                  <l>We ſhould be ſafe &amp; ſound:</l>
+                  <l>There ſhould no rot,</l>
+                  <l>Light of our lot,</l>
+                  <l>If ſuch ſhepherdes were found.</l>
+               </lg>
+               <lg>
+                  <l>But ſince that we,</l>
+                  <l>Were found to be,</l>
+                  <l>So worthy the Lordes ire:</l>
+                  <l>We haue had few,</l>
+                  <l>Whoſe workes do ſhew,</l>
+                  <l>Them worthy the Lordes hire.</l>
+               </lg>
+               <pb facs="tcp:18815:22"/>
+               <lg>
+                  <l>For we were ledde,</l>
+                  <l>For to be fedde,</l>
+                  <l>In moriſhe mariſhe ground:</l>
+                  <l>Thinking there was,</l>
+                  <l>Such maner graſſe,</l>
+                  <l>As would haue fed vs found.</l>
+               </lg>
+               <lg>
+                  <l>But now we ſée,</l>
+                  <l>How farre we bée,</l>
+                  <l>Diſeaſed in this caſe:</l>
+                  <l>By them that die,</l>
+                  <l>Moſt wretchedlie,</l>
+                  <l>Of all kindes of diſeaſe.</l>
+               </lg>
+               <lg>
+                  <l>Thrée kindes of rotte,</l>
+                  <l>Full wel I wotte,</l>
+                  <l>As ſhepherdes haue me tolde:</l>
+                  <l>Lighteth among,</l>
+                  <l>The luſtie yong</l>
+                  <l>Shepe, as ſoone as the olde.</l>
+               </lg>
+               <lg>
+                  <l>Fell rotte is one,</l>
+                  <l>Wherof dye none,</l>
+                  <l>But ſuch as lacke drying:</l>
+                  <l>After they bée,</l>
+                  <l>Waſhed as we ſée,</l>
+                  <l>Before time of ſhearing.</l>
+               </lg>
+               <lg>
+                  <l>But here I would,</l>
+                  <l>That all men ſhould,</l>
+                  <pb facs="tcp:18815:23"/>
+                  <l>Perceiue what waſhing is:</l>
+                  <l>And what drying,</l>
+                  <l>Is my meaning,</l>
+                  <l>Wherof men haue ſuch mis.</l>
+               </lg>
+               <lg>
+                  <l>It is baptiſme,</l>
+                  <l>That waſheth them,</l>
+                  <l>That in Chriſt put their truſt:</l>
+                  <l>And their drying,</l>
+                  <l>Is vp bringing,</l>
+                  <l>After the ghoſtly luſt.</l>
+               </lg>
+               <lg>
+                  <l>None can deny,</l>
+                  <l>But faithfully,</l>
+                  <l>Their babes to waſhe men vſe,</l>
+                  <l>But to dry them,</l>
+                  <l>As doth beſeme,</l>
+                  <l>Moſt parte of men refuſe.</l>
+               </lg>
+               <lg>
+                  <l>They go about,</l>
+                  <l>To make them ſtout,</l>
+                  <l>To get their fleſhly foode:</l>
+                  <l>Thinking no néede,</l>
+                  <l>That they ſhould féede,</l>
+                  <l>The ſoule with doctrine good.</l>
+               </lg>
+               <lg>
+                  <l>To feare and loue,</l>
+                  <l>The Lord aboue,</l>
+                  <l>Their children are not taught:</l>
+                  <l>Neither to pray,</l>
+                  <pb facs="tcp:18815:23"/>
+                  <l>But ſing and ſay,</l>
+                  <l>All rimes filthy and naught.</l>
+               </lg>
+               <lg>
+                  <l>At thrée yeres olde,</l>
+                  <l>They ſhal be bolde,</l>
+                  <l>To name their mothers ſhap:</l>
+                  <l>Their father will,</l>
+                  <l>Maintaine them ſtil,</l>
+                  <l>And ſet them on his lap.</l>
+               </lg>
+               <lg>
+                  <l>They ſhal not feare,</l>
+                  <l>All othes to ſweare,</l>
+                  <l>By they haue liued ſeue<g ref="char:cmbAbbrStroke">̄</g> yeres:</l>
+                  <l>The parentes ſhall,</l>
+                  <l>Them princockes call,</l>
+                  <l>And ſay they haue no peares.</l>
+               </lg>
+               <lg>
+                  <l>O bribers wood,</l>
+                  <l>Thinke ye it good,</l>
+                  <l>To laugh &amp; make great game,</l>
+                  <l>When you ſhall ſée,</l>
+                  <l>Your babes to bée,</l>
+                  <l>So wanton paſt all ſhame?</l>
+               </lg>
+               <lg>
+                  <l>No whelpe ſo wilde,</l>
+                  <l>Is, as ſome childe,</l>
+                  <l>No yong kitling ſo nice:</l>
+                  <l>No ſwine ſo rude,</l>
+                  <l>And to conclude,</l>
+                  <l>No ſtewes ſo full of vice.</l>
+               </lg>
+               <pb facs="tcp:18815:24"/>
+               <lg>
+                  <l>Thou fooliſh man,</l>
+                  <l>Say if thou can,</l>
+                  <l>What reward thou ſhalt haue.</l>
+                  <l>That doeſt employ,</l>
+                  <l>Thée to deſtroy,</l>
+                  <l>The ſéede that God thée gaue.</l>
+               </lg>
+               <lg>
+                  <l>Eternall fire,</l>
+                  <l>Shall be thine hire:</l>
+                  <l>Vnleſſe thou do repent:</l>
+                  <l>And call for grace,</l>
+                  <l>Whiles thou haſt ſpace,</l>
+                  <l>Before thy dayes be ſpent.</l>
+               </lg>
+               <lg>
+                  <l>Chriſt ſaith alas,</l>
+                  <l>In full harde caſe,</l>
+                  <l>Art thou whoſe example,</l>
+                  <l>Cauſeth babes yong,</l>
+                  <l>For to go wrong,</l>
+                  <l>In wayes abhominable.</l>
+               </lg>
+               <lg>
+                  <l>For thée it were,</l>
+                  <l>Saith he, better</l>
+                  <l>To be drowned in the ſea,</l>
+                  <l>Than that the leaſt,</l>
+                  <l>Childe of beheaſt,</l>
+                  <l>Should learne to ſinne at thée.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore all ye,</l>
+                  <l>That faithful be,</l>
+                  <pb facs="tcp:18815:24"/>
+                  <l>Let not your vice infecte:</l>
+                  <l>The tender yong,</l>
+                  <l>That are among,</l>
+                  <l>You as the Lordes elect.</l>
+               </lg>
+               <lg>
+                  <l>But do emploie,</l>
+                  <l>You buſilie,</l>
+                  <l>To teach them the Lordes wil:</l>
+                  <l>That in their age,</l>
+                  <l>They do not rage,</l>
+                  <l>But liue thereafter ſtil.</l>
+               </lg>
+               <lg>
+                  <l>Then the rewarde,</l>
+                  <l>That is preparde,</l>
+                  <l>For the<g ref="char:cmbAbbrStroke">̄</g> that Chriſt hath bought</l>
+                  <l>Shal be to you,</l>
+                  <l>As wages due,</l>
+                  <l>Bicauſe you haue it ſought,</l>
+               </lg>
+               <lg>
+                  <l>Now of the firſt,</l>
+                  <l>Rotte as I truſt,</l>
+                  <l>You haue intelligence:</l>
+                  <l>Wherby you may,</l>
+                  <l>Driue it away,</l>
+                  <l>Through godly diligence.</l>
+               </lg>
+               <lg>
+                  <l>The other twayne,</l>
+                  <l>That do remayne,</l>
+                  <l>If God wil be my guide:</l>
+                  <l>I wil deſcry,</l>
+                  <pb facs="tcp:18815:25"/>
+                  <l>So plenteouſly,</l>
+                  <l>That no man ſhal it hide.</l>
+               </lg>
+               <lg>
+                  <l>The hunger bane,</l>
+                  <l>Is alwayes tane,</l>
+                  <l>As ſhepeheardes haue told me,</l>
+                  <l>By to much weate,</l>
+                  <l>After great heate,</l>
+                  <l>Which maketh graſſe plentie.</l>
+               </lg>
+               <lg>
+                  <l>Wherof the ſhéepe,</l>
+                  <l>That could ſcaſe créepe,</l>
+                  <l>Before for lacke of foode:</l>
+                  <l>Finding ſwéete meate,</l>
+                  <l>Do often eate,</l>
+                  <l>Much more the<g ref="char:cmbAbbrStroke">̄</g> doth them good.</l>
+               </lg>
+               <lg>
+                  <l>By this exceſſe,</l>
+                  <l>There doth encreaſe,</l>
+                  <l>In them abundantly:</l>
+                  <l>Bloud corrupted,</l>
+                  <l>Vndigeſted,</l>
+                  <l>Which cauſeth them to dye.</l>
+               </lg>
+               <lg>
+                  <l>In like manere,</l>
+                  <l>It doth appeare,</l>
+                  <l>Amongeſt them that profeſſe,</l>
+                  <l>The Chriſtian faith,</l>
+                  <l>As good Paule ſaith,</l>
+                  <l>And yet worke wickednes.</l>
+               </lg>
+               <pb facs="tcp:18815:25"/>
+               <lg>
+                  <l>For though that they,</l>
+                  <l>Deſire alway,</l>
+                  <l>To know Gods veritie:</l>
+                  <l>Yet when they haue,</l>
+                  <l>All that they craue,</l>
+                  <l>They vſe it carnally.</l>
+               </lg>
+               <lg>
+                  <l>By Chriſt we bée,</l>
+                  <l>At libertie,</l>
+                  <l>Say they (and that is true)</l>
+                  <l>For on the Roode,</l>
+                  <l>He ſhedde his bloud,</l>
+                  <l>Our fréedome to renue.</l>
+               </lg>
+               <lg>
+                  <l>From death and ſinne,</l>
+                  <l>Which we were in,</l>
+                  <l>This bloud hath made vs frée:</l>
+                  <l>And from the yoke,</l>
+                  <l>Which Moſes flocke,</l>
+                  <l>Toke for their libertie.</l>
+               </lg>
+               <lg>
+                  <l>Yet are we not,</l>
+                  <l>So frée by that,</l>
+                  <l>From ſinne that we may take:</l>
+                  <l>Our fleſhly luſt,</l>
+                  <l>And remaine iuſt,</l>
+                  <l>Euen for Chriſt Ieſus ſake.</l>
+               </lg>
+               <lg>
+                  <l>But looke what day,</l>
+                  <l>We do obey,</l>
+                  <pb facs="tcp:18815:26"/>
+                  <l>The fleſh in déede or thought,</l>
+                  <l>Our fleſhly will,</l>
+                  <l>For to fulfill,</l>
+                  <l>Chriſtes bloud auaileth nought.</l>
+               </lg>
+               <lg>
+                  <l>Chriſt ſhed his blood,</l>
+                  <l>To do them good,</l>
+                  <l>That forſake their owne will:</l>
+                  <l>And not for thoſe,</l>
+                  <l>That wil ſuppoſe,</l>
+                  <l>They may liue fleſhly ſtill.</l>
+               </lg>
+               <lg>
+                  <l>For Chriſt did die,</l>
+                  <l>To mortifie,</l>
+                  <l>The fleſh, death, hel and ſinne:</l>
+                  <l>In thoſe that he,</l>
+                  <l>Did know to be,</l>
+                  <l>Frée men of <hi>Iſaacs</hi> kinne.</l>
+               </lg>
+               <lg>
+                  <l>For theſe he hath,</l>
+                  <l>Ordeyned a path,</l>
+                  <l>Wherin néedes walk they muſt</l>
+                  <l>If they by fayth,</l>
+                  <l>As Scripture ſaith,</l>
+                  <l>Will be tride to be iuſt.</l>
+               </lg>
+               <lg>
+                  <l>For without mis,</l>
+                  <l>No faith there is,</l>
+                  <l>Where workes do not enſue:</l>
+                  <l>Which may declare,</l>
+                  <pb facs="tcp:18815:26"/>
+                  <l>Whoſe trées we are,</l>
+                  <l>When iudgement ſhall be due.</l>
+               </lg>
+               <lg>
+                  <l>Good workes therfore,</l>
+                  <l>Will euermore,</l>
+                  <l>Appeare in Gods elect</l>
+                  <l>For by that ſigne,</l>
+                  <l>Such as are mine</l>
+                  <l>(Saith Chriſt) ſhall be detect.</l>
+               </lg>
+               <lg>
+                  <l>But ſuch as lurke,</l>
+                  <l>And will not wurke,</l>
+                  <l>Ought elſe but wickedneſſe,</l>
+                  <l>Chriſt will forſake,</l>
+                  <l>And them betake.</l>
+                  <l>To the pitte bottomleſſe.</l>
+               </lg>
+               <lg>
+                  <l>There they ſhall lye,</l>
+                  <l>And wiſhe to dye,</l>
+                  <l>But death ſhall flée them fro:</l>
+                  <l>They ſhall ſuſtayne,</l>
+                  <l>Eternall payne,</l>
+                  <l>Bicauſe they liued ſo.</l>
+               </lg>
+               <lg>
+                  <l>All ye therfore,</l>
+                  <l>That heretofore,</l>
+                  <l>Haue bene ledde in darkeneſſe:</l>
+                  <l>Do not abuſe,</l>
+                  <l>Theſe godly newes,</l>
+                  <l>Through your carnal exceſſe.</l>
+               </lg>
+               <pb facs="tcp:18815:27"/>
+               <lg>
+                  <l>Carnall exceſſe,</l>
+                  <l>Is as I geſſe,</l>
+                  <l>To thinke Chriſt made vs frée:</l>
+                  <l>For that we ſhould,</l>
+                  <l>Through him be bold,</l>
+                  <l>To worke iniquitie.</l>
+               </lg>
+               <lg>
+                  <l>But Chriſt our price,</l>
+                  <l>The ſacrifice,</l>
+                  <l>For ſinne, hauing no ſtayne:</l>
+                  <l>Muſt nedes forſake,</l>
+                  <l>All them that make,</l>
+                  <l>Themſelues captiue againe.</l>
+               </lg>
+               <lg>
+                  <l>And thoſe be they,</l>
+                  <l>That to vs ſay,</l>
+                  <l>Chriſt hath payd the raunſome,</l>
+                  <l>And worthy price,</l>
+                  <l>For all our vice,</l>
+                  <l>To purchaſe vs fréedome.</l>
+               </lg>
+               <lg>
+                  <l>His precious blood,</l>
+                  <l>Shedde on the Roode,</l>
+                  <l>Hath ſet vs all at large:</l>
+                  <l>No maner wight,</l>
+                  <l>Hath any might,</l>
+                  <l>To lay ought to our charge.</l>
+               </lg>
+               <lg>
+                  <l>By him we truſt,</l>
+                  <l>To be found iuſt,</l>
+                  <pb facs="tcp:18815:27"/>
+                  <l>When he ſhal iudge vs all:</l>
+                  <l>Notwithſtanding,</l>
+                  <l>That our liuing,</l>
+                  <l>Be not like <hi>Peter</hi> and <hi>Paule.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We do not doubt,</l>
+                  <l>His blood without,</l>
+                  <l>Our workes, to be able,</l>
+                  <l>Vs to reſtore,</l>
+                  <l>Our workes therfore,</l>
+                  <l>Are found vnprofitable.</l>
+               </lg>
+               <lg>
+                  <l>All this is true,</l>
+                  <l>Yet are workes due,</l>
+                  <l>And all that do neglect,</l>
+                  <l>To do gods wil,</l>
+                  <l>Are bond men ſtill,</l>
+                  <l>As none of Gods electe.</l>
+               </lg>
+               <lg>
+                  <l>For none can be,</l>
+                  <l>At libertie,</l>
+                  <l>Through Chriſt that do not ſtil</l>
+                  <l>Themſelues emploie,</l>
+                  <l>To mortifie</l>
+                  <l>The fleſh, to do Gods wil.</l>
+               </lg>
+               <lg>
+                  <l>The fruite and trée,</l>
+                  <l>Shall euer bée,</l>
+                  <l>All one, this is no nay,</l>
+                  <l>The roote and ſpring,</l>
+                  <pb facs="tcp:18815:28"/>
+                  <l>Is all one thing,</l>
+                  <l>One good, both good alway,</l>
+               </lg>
+               <lg>
+                  <l>The braunche alſo,</l>
+                  <l>That cleaueth to</l>
+                  <l>The vine, ſhal be fruitfull:</l>
+                  <l>It cannot bée,</l>
+                  <l>That a good trée,</l>
+                  <l>Should be vnprofitable.</l>
+               </lg>
+               <lg>
+                  <l>Euen ſo brothers,</l>
+                  <l>All Chriſtes members,</l>
+                  <l>Bring forth works ple<g ref="char:cmbAbbrStroke">̄</g>tuouſly:</l>
+                  <l>The godly ſecte,</l>
+                  <l>Of Gods electe,</l>
+                  <l>Can not liue idelly.</l>
+               </lg>
+               <lg>
+                  <l>The holy ghoſt,</l>
+                  <l>Is not at hoſt,</l>
+                  <l>With them that liue fleſhly:</l>
+                  <l>They muſt fulfill,</l>
+                  <l>The fathers will,</l>
+                  <l>That wil haue him tary.</l>
+               </lg>
+               <lg>
+                  <l>Therfore if we,</l>
+                  <l>Intende to be,</l>
+                  <l>Temples of the Lordes ſpirite:</l>
+                  <l>Our life muſt not,</l>
+                  <l>Diſſent from that,</l>
+                  <l>Which holy <hi>Paule</hi> doth write.</l>
+               </lg>
+               <pb facs="tcp:18815:28"/>
+               <lg>
+                  <l>Make your bodies,</l>
+                  <l>A ſacrifice</l>
+                  <l>Saith he, ſincere and pure:</l>
+                  <l>Keping therin,</l>
+                  <l>No maner ſinne,</l>
+                  <l>But ſéeke the Lordes pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>When we do this,</l>
+                  <l>We ſhall not mis,</l>
+                  <l>To haue Gods ſpirite in vs:</l>
+                  <l>Whoſe preſence ſhall,</l>
+                  <l>Helpe vs in all</l>
+                  <l>Things, that are daungerous.</l>
+               </lg>
+               <lg>
+                  <l>But if we will,</l>
+                  <l>Be fleſhly ſtill,</l>
+                  <l>Working our beaſtly luſt:</l>
+                  <l>Vndoubted than,</l>
+                  <l>In him we can,</l>
+                  <l>By no meanes put our truſt.</l>
+               </lg>
+               <lg>
+                  <l>For he will bée,</l>
+                  <l>An enimie,</l>
+                  <l>To all that wil worke vice:</l>
+                  <l>And to them that,</l>
+                  <l>Endeuour not,</l>
+                  <l>From their olde ſinne to riſe.</l>
+               </lg>
+               <lg>
+                  <l>Repent therfore,</l>
+                  <l>And ſinne no more,</l>
+                  <pb facs="tcp:18815:29"/>
+                  <l>But ſeke God and his will:</l>
+                  <l>That ye may be,</l>
+                  <l>At libertie,</l>
+                  <l>From death, ſinne, &amp; the deuil.</l>
+               </lg>
+               <lg>
+                  <l>Walke not in ſinne,</l>
+                  <l>Now you be in,</l>
+                  <l>The light of Gods doctrine,</l>
+                  <l>For if ye do,</l>
+                  <l>Ye are like to</l>
+                  <l>The moſt vncleanely ſwine.</l>
+               </lg>
+               <lg>
+                  <l>Which vſe to lye,</l>
+                  <l>Moſt filthily,</l>
+                  <l>In myer vp to the head:</l>
+                  <l>Euen at high noone,</l>
+                  <l>When that the ſunne,</l>
+                  <l>Moſt glorious beames doth ſpread.</l>
+               </lg>
+               <lg>
+                  <l>But we riſen,</l>
+                  <l>From death and ſinne,</l>
+                  <l>By Chriſt our aduocate:</l>
+                  <l>Muſt in liuing,</l>
+                  <l>Séeke for the thing,</l>
+                  <l>That will kéepe our eſtate.</l>
+               </lg>
+               <lg>
+                  <l>That is Gods grace,</l>
+                  <l>For to imbrace,</l>
+                  <l>His worde and worke his will:</l>
+                  <l>With all our might,</l>
+                  <pb facs="tcp:18815:29"/>
+                  <l>Both day and night,</l>
+                  <l>To liue thereafter ſtill.</l>
+               </lg>
+               <lg>
+                  <l>We haue bene led,</l>
+                  <l>Blindely and fed,</l>
+                  <l>Scarſly long time, what than?</l>
+                  <l>Should we therfore,</l>
+                  <l>Liue euermore,</l>
+                  <l>After the outward man?</l>
+               </lg>
+               <lg>
+                  <l>No God forbid,</l>
+                  <l>That Abrams ſéede,</l>
+                  <l>Should ſo degenerate:</l>
+                  <l>That it ſhould ſmell,</l>
+                  <l>Of Iſmaell,</l>
+                  <l>Whoſe ſtocke was reprobate.</l>
+               </lg>
+               <lg>
+                  <l>Plenty of meate,</l>
+                  <l>Now for to eate,</l>
+                  <l>The good ſhepeherd hath ſent:</l>
+                  <l>His ſhéepe to féede,</l>
+                  <l>Which ſtoode in néede,</l>
+                  <l>No doubt was his intent.</l>
+               </lg>
+               <lg>
+                  <l>And not to ſtroy,</l>
+                  <l>Their health thereby,</l>
+                  <l>Which thing it doth in déede:</l>
+                  <l>When they halfe woode,</l>
+                  <l>Abuſe that foode,</l>
+                  <l>The fleſh therwith to féede.</l>
+               </lg>
+               <pb facs="tcp:18815:30"/>
+               <lg>
+                  <l>Féede we therfore,</l>
+                  <l>The fleſhe no more,</l>
+                  <l>With the foode of the ſoule:</l>
+                  <l>For if it catche,</l>
+                  <l>A further ſmatche,</l>
+                  <l>At length it wil controle:</l>
+               </lg>
+               <lg>
+                  <l>Then may we ſay,</l>
+                  <l>Woe worth the day,</l>
+                  <l>And houre of our firſt birthe:</l>
+                  <l>For death ſhall bring,</l>
+                  <l>Extreme mourning,</l>
+                  <l>And take away our mirth.</l>
+               </lg>
+               <lg>
+                  <l>O cruell lotte,</l>
+                  <l>O peſtilent rotte,</l>
+                  <l>What plague can be like this?</l>
+                  <l>Which taketh away,</l>
+                  <l>Immortal ioy,</l>
+                  <l>Baniſhing vs all bliſſe?</l>
+               </lg>
+               <lg>
+                  <l>No remedie</l>
+                  <l>For this finde I</l>
+                  <l>But onely earneſt prayer:</l>
+                  <l>Which as I fynde,</l>
+                  <l>Hath ofte enclinde</l>
+                  <l>God to remit his ire.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore let vs,</l>
+                  <l>Be ſtudious,</l>
+                  <pb facs="tcp:18815:30"/>
+                  <l>In prayer, that it may pleaſe</l>
+                  <l>The heauenly king,</l>
+                  <l>Which knoweth all thing,</l>
+                  <l>To cure this ſore diſeaſe.</l>
+               </lg>
+               <lg>
+                  <l>And then no doubt,</l>
+                  <l>We ſhal without,</l>
+                  <l>Delay come to the bliſſe:</l>
+                  <l>That is preparde,</l>
+                  <l>As a rewarde,</l>
+                  <l>For them that ſéeke iuſtice.</l>
+               </lg>
+               <lg>
+                  <l>The third kynde as</l>
+                  <l>My promiſe was,</l>
+                  <l>I muſt néedes now declare:</l>
+                  <l>That is murraine,</l>
+                  <l>As ſhepeherdes faine,</l>
+                  <l>That worketh them much care.</l>
+               </lg>
+               <lg>
+                  <l>But good herdmen,</l>
+                  <l>Tell me that when,</l>
+                  <l>Shepe take the murraine rote:</l>
+                  <l>Then the ſhepherde,</l>
+                  <l>For his rewarde,</l>
+                  <l>Should be ha<g ref="char:cmbAbbrStroke">̄</g>ged by the throte.</l>
+               </lg>
+               <lg>
+                  <l>For no ſhepe will,</l>
+                  <l>Rotte on the hill,</l>
+                  <l>So long as he is ledde,</l>
+                  <l>Directly forth,</l>
+                  <pb facs="tcp:18815:31"/>
+                  <l>As the time doth,</l>
+                  <l>Require for to be fedde.</l>
+               </lg>
+               <lg>
+                  <l>But ſuch as do,</l>
+                  <l>Leade ſhepe into,</l>
+                  <l>The valley to make them fatte:</l>
+                  <l>Intend to ſell,</l>
+                  <l>The carcaſe well,</l>
+                  <l>And gayne ſomething by that.</l>
+               </lg>
+               <lg>
+                  <l>But he that will,</l>
+                  <l>Not his ſhéepe kill,</l>
+                  <l>But haue them to endure:</l>
+                  <l>To féede them ſound,</l>
+                  <l>In holeſome ground,</l>
+                  <l>He muſt euer be ſure.</l>
+               </lg>
+               <lg>
+                  <l>And ſuche one will,</l>
+                  <l>Vp to the hill,</l>
+                  <l>To féede his flocke eche day,</l>
+                  <l>And killeth not,</l>
+                  <l>Such as are fatte,</l>
+                  <l>Leſt his flocke ſhould decay.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore we may,</l>
+                  <l>This ſafely ſay,</l>
+                  <l>They are butchers eche one,</l>
+                  <l>That féede their ſhéepe,</l>
+                  <l>In bottoms déepe,</l>
+                  <l>And let the hill alone.</l>
+               </lg>
+               <pb facs="tcp:18815:31"/>
+               <lg>
+                  <l>They tende them not,</l>
+                  <l>But for the fatte,</l>
+                  <l>They ſende at ſlaughter day:</l>
+                  <l>They take no care,</l>
+                  <l>For ſlender ware,</l>
+                  <l>Though wolfes fetch the<g ref="char:cmbAbbrStroke">̄</g> away.</l>
+               </lg>
+               <lg>
+                  <l>Such can be bolde,</l>
+                  <l>For ready golde,</l>
+                  <l>To bye a flocke of ſhéepe:</l>
+                  <l>And for to haue,</l>
+                  <l>A ſlouthful knaue,</l>
+                  <l>That wil take them to kéepe.</l>
+               </lg>
+               <lg>
+                  <l>They do not paſſe,</l>
+                  <l>What maner graſſe,</l>
+                  <l>He hath to féede them on,</l>
+                  <l>So that the ſumme,</l>
+                  <l>Do yerely come,</l>
+                  <l>That they do pointe vpon.</l>
+               </lg>
+               <lg>
+                  <l>Marke now brothers,</l>
+                  <l>If no butchers,</l>
+                  <l>May be found in this land:</l>
+                  <l>Which buſily,</l>
+                  <l>Do Chriſtes flocke bye,</l>
+                  <l>Out of the ſhepeherdes hand.</l>
+               </lg>
+               <lg>
+                  <l>What are they that,</l>
+                  <l>Vſe to lye at</l>
+                  <pb facs="tcp:18815:32"/>
+                  <l>The court, or ſome lordes place:</l>
+                  <l>Where they ſuſtaine,</l>
+                  <l>Importune paine,</l>
+                  <l>Dauncing on <hi>Gnatos</hi> trace?</l>
+               </lg>
+               <lg>
+                  <l>Theſe wil eſpye,</l>
+                  <l>Where great flockes lye,</l>
+                  <l>Where they ſet one to ſpie,</l>
+                  <l>To bring tidinges,</l>
+                  <l>Before all thinges,</l>
+                  <l>When the ſhepeherde doth die.</l>
+               </lg>
+               <lg>
+                  <l>Then they apply,</l>
+                  <l>Their flattery,</l>
+                  <l>By frendſhip bought with gold:</l>
+                  <l>That for their paine,</l>
+                  <l>They may obtaine,</l>
+                  <l>To enter to the fold.</l>
+               </lg>
+               <lg>
+                  <l>Yea long before,</l>
+                  <l>Some get them ſtore,</l>
+                  <l>Of Vowſens to be ſure:</l>
+                  <l>That none ſhall let,</l>
+                  <l>Them for to get,</l>
+                  <l>In at their owne pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>Then do they ſet,</l>
+                  <l>Some leude verlet,</l>
+                  <l>To try what may be made:</l>
+                  <l>Yearely of that</l>
+                  <pb facs="tcp:18815:32"/>
+                  <l>Ware that is fat,</l>
+                  <l>And all due charges payde.</l>
+               </lg>
+               <lg>
+                  <l>The chiefe thing is,</l>
+                  <l>The prieſtes wages,</l>
+                  <l>And tenthes due to the king:</l>
+                  <l>But ſuch as bée,</l>
+                  <l>In pouertie,</l>
+                  <l>May be allowed nothing.</l>
+               </lg>
+               <lg>
+                  <l>For if they ſhould,</l>
+                  <l>Theſe butchers could</l>
+                  <l>Not thriue vpon their craft:</l>
+                  <l>For poore men will</l>
+                  <l>Be begging ſtill,</l>
+                  <l>So long as ought is lafte.</l>
+               </lg>
+               <lg>
+                  <l>But they wil ſpy</l>
+                  <l>A remedy,</l>
+                  <l>For that you may be ſure:</l>
+                  <l>Saying they ought</l>
+                  <l>To giue them nought,</l>
+                  <l>That do them no pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>Thus yerely they</l>
+                  <l>Do fetch away</l>
+                  <l>The gaynes that doth ariſe:</l>
+                  <l>By tenth increaſe</l>
+                  <l>Of mens riches,</l>
+                  <l>After the largeſt ſiſe.</l>
+               </lg>
+               <pb facs="tcp:18815:33"/>
+               <lg>
+                  <l>But for to féede,</l>
+                  <l>Such as haue néede,</l>
+                  <l>Theſe fellows take no thought</l>
+                  <l>But let them pike,</l>
+                  <l>In euery dike</l>
+                  <l>All wéedes filthy and nought.</l>
+               </lg>
+               <lg>
+                  <l>Thus they wander,</l>
+                  <l>As ſhéepe that were</l>
+                  <l>Forſaken of their guide:</l>
+                  <l>Feading themſelfe,</l>
+                  <l>With all ſuch pelfe,</l>
+                  <l>As growes in the field wide.</l>
+               </lg>
+               <lg>
+                  <l>But out alas,</l>
+                  <l>In how hard caſe</l>
+                  <l>Are they whoſe ſhepherdes are:</l>
+                  <l>Of Gods preachers,</l>
+                  <l>Become butchers,</l>
+                  <l>Prouder than <hi>Lucifer.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The murren rot</l>
+                  <l>Is on their lot,</l>
+                  <l>Their health is ſore decayde:</l>
+                  <l>No remedie,</l>
+                  <l>They muſt néedes die,</l>
+                  <l>Vnleſſe God be their ayde.</l>
+               </lg>
+               <lg>
+                  <l>Shepeherdes are dead,</l>
+                  <l>And we are led,</l>
+                  <pb facs="tcp:18815:33"/>
+                  <l>Be them that flée vs fro:</l>
+                  <l>When as they ſhould,</l>
+                  <l>Do what they could,</l>
+                  <l>To ſaue vs from our foe.</l>
+               </lg>
+               <lg>
+                  <l>Yea rather they,</l>
+                  <l>Make vs obey,</l>
+                  <l>Our aduerſaries minde,</l>
+                  <l>Bidding vs truſt,</l>
+                  <l>To be found iuſt,</l>
+                  <l>By meanes that they do finde.</l>
+               </lg>
+               <lg>
+                  <l>Thus they lapped in,</l>
+                  <l>A ſhepeherdes ſkin,</l>
+                  <l>Do ſay they wil vs féede:</l>
+                  <l>With ghoſtly foode,</l>
+                  <l>Holeſome and good,</l>
+                  <l>At all times when we néede.</l>
+               </lg>
+               <lg>
+                  <l>But when theſe do,</l>
+                  <l>Miniſter to</l>
+                  <l>Vs, as they do but ſelde:</l>
+                  <l>Their medicines are,</l>
+                  <l>Such mixed ware,</l>
+                  <l>As few ſicke men haue felde.</l>
+               </lg>
+               <lg>
+                  <l>There are alſo,</l>
+                  <l>Some other mo,</l>
+                  <l>Whoſe names I dare not tell:</l>
+                  <l>Which beare them bolde,</l>
+                  <pb facs="tcp:18815:34"/>
+                  <l>For redy gold,</l>
+                  <l>The flocke of Chriſt to ſell.</l>
+               </lg>
+               <lg>
+                  <l>Theſe with Iudas</l>
+                  <l>Which damned was,</l>
+                  <l>For ſelling Chriſt our hed:</l>
+                  <l>Are like certaine</l>
+                  <l>In extreme paine</l>
+                  <l>To make their endleſſe bedde.</l>
+               </lg>
+               <lg>
+                  <l>Vnleſſe by grace,</l>
+                  <l>They do imbrace</l>
+                  <l>Gods worde and aſke mercy:</l>
+                  <l>For their ſinne is</l>
+                  <l>No leſſe than his</l>
+                  <l>Since they ſell Chriſtes body.</l>
+               </lg>
+               <lg>
+                  <l>In like daunger</l>
+                  <l>Is the byer</l>
+                  <l>And all that condeſcende:</l>
+                  <l>But chiefly they</l>
+                  <l>That ſhould alway</l>
+                  <l>Such great abuſe amende.</l>
+               </lg>
+               <lg>
+                  <l>All kinges therfore,</l>
+                  <l>Ought much the more</l>
+                  <l>To loke vpon their charge:</l>
+                  <l>For all the land</l>
+                  <l>Lieth on their hand</l>
+                  <l>Be it neuer ſo large.</l>
+               </lg>
+               <pb facs="tcp:18815:34"/>
+               <lg>
+                  <l>Let vs therfore</l>
+                  <l>Pray euermore</l>
+                  <l>That good K. Henries thought:</l>
+                  <l>May be enclinde</l>
+                  <l>Such meanes to finde</l>
+                  <l>That Chriſtes flocke be not bought.</l>
+               </lg>
+               <lg>
+                  <l>But that we may</l>
+                  <l>Haue them alway</l>
+                  <l>To leade vs in and out:</l>
+                  <l>That for our health</l>
+                  <l>To loſe the wealth,</l>
+                  <l>Of this worlde will not doubt.</l>
+               </lg>
+               <lg>
+                  <l>Such doubtleſſe will,</l>
+                  <l>Walke to the hill,</l>
+                  <l>Of gods word with their flock:</l>
+                  <l>Going before,</l>
+                  <l>Them euermore,</l>
+                  <l>Like men of Dauids ſtock.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall their ſhepe</l>
+                  <l>After them ſkippe</l>
+                  <l>In life worthy their name:</l>
+                  <l>So that there ſhall,</l>
+                  <l>Be nought at all,</l>
+                  <l>In them worthy of blame.</l>
+               </lg>
+               <lg>
+                  <l>For they ſhall heare,</l>
+                  <l>His voyce ſo cleare,</l>
+                  <pb facs="tcp:18815:35"/>
+                  <l>And ſée him go ſo bright:</l>
+                  <l>Before their face,</l>
+                  <l>That they may trace,</l>
+                  <l>His foote both day and night.</l>
+               </lg>
+               <lg>
+                  <l>No darkeneſſe can,</l>
+                  <l>Trouble them than,</l>
+                  <l>No cloud ſhal duſke their ſight:</l>
+                  <l>They ſhall not ſtray,</l>
+                  <l>Out of the way,</l>
+                  <l>Bicauſe their guide is bright.</l>
+               </lg>
+               <lg>
+                  <l>O ioyfull thing,</l>
+                  <l>God graunt our king,</l>
+                  <l>Grace to ſée vs his flocke,</l>
+                  <l>Ledde on this ſorte,</l>
+                  <l>For our comforte,</l>
+                  <l>By guides of <hi>Dauids</hi> ſtocke.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall we ſing,</l>
+                  <l>Prayſe to our king,</l>
+                  <l>And glory to the Lorde:</l>
+                  <l>Of Iſraell,</l>
+                  <l>With whoſe Goſpell,</l>
+                  <l>Our life ſhould then accorde.</l>
+               </lg>
+            </div>
+            <div n="4" type="part">
+               <head>4</head>
+               <lg>
+                  <l>IT followeth next,</l>
+                  <l>Now in the Text,</l>
+                  <pb facs="tcp:18815:35"/>
+                  <l>Great earthquakes ſhalbe ſéene:</l>
+                  <l>Which ſhal caſt downe,</l>
+                  <l>Both tower and towne,</l>
+                  <l>And great caſtels I wéene.</l>
+               </lg>
+               <lg>
+                  <l>Now let vs ſée,</l>
+                  <l>Whether there bée,</l>
+                  <l>In our dayes any towne:</l>
+                  <l>Caſtell or tower,</l>
+                  <l>That through the power,</l>
+                  <l>Of the earthquake is downe.</l>
+               </lg>
+               <lg>
+                  <l>But that we might.</l>
+                  <l>Therin iudge right,</l>
+                  <l>The cauſes muſt be knowen:</l>
+                  <l>That do ſo make,</l>
+                  <l>The earth to quake,</l>
+                  <l>That townes are ouerthrowen.</l>
+               </lg>
+               <lg>
+                  <l>In this we muſt,</l>
+                  <l>Their iudgement truſt,</l>
+                  <l>That haue writ of the ſame:</l>
+                  <l>Sith their writing,</l>
+                  <l>Teacheth nothing,</l>
+                  <l>That is worthy of blame.</l>
+               </lg>
+               <lg>
+                  <l>All ſuch men do,</l>
+                  <l>Conſent vnto,</l>
+                  <l>This thing putting no doubt:</l>
+                  <l>But vapours make,</l>
+                  <pb facs="tcp:18815:36"/>
+                  <l>The earth to ſhake,</l>
+                  <l>When they ſéeke a way out.</l>
+               </lg>
+               <lg>
+                  <l>In caues hollow,</l>
+                  <l>Theſe vapours grow,</l>
+                  <l>To ſuch a multitude,</l>
+                  <l>That at the laſt,</l>
+                  <l>They will out braſt,</l>
+                  <l>No ſtrength can them include.</l>
+               </lg>
+               <lg>
+                  <l>Then caſt they downe,</l>
+                  <l>Both tower and towne,</l>
+                  <l>That is nigh to the place:</l>
+                  <l>No maner wight,</l>
+                  <l>May welde their might,</l>
+                  <l>Nor looke for any grace.</l>
+               </lg>
+               <lg>
+                  <l>What ſay we than,</l>
+                  <l>If that in man,</l>
+                  <l>Theſe vapours may be found:</l>
+                  <l>Should we looke for,</l>
+                  <l>Then any more,</l>
+                  <l>The ſhaking of the ground?</l>
+               </lg>
+               <lg>
+                  <l>No that were vayne,</l>
+                  <l>For then certayne,</l>
+                  <l>We might looke for a beaſt:</l>
+                  <l>Like to a Beare,</l>
+                  <l>Which ſhould appeare,</l>
+                  <l>After ſaint Iohns beheaſt.</l>
+               </lg>
+               <gap reason="missing" resp="#OXF" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:18815:36"/>
+               <pb facs="tcp:18815:37"/>
+               <pb facs="tcp:18815:37"/>
+               <lg>
+                  <l>Nor drinke the pleaſant drinke:</l>
+                  <l>How ſhould Vintners,</l>
+                  <l>And Victulers</l>
+                  <l>Liue then, as you do thinke?</l>
+               </lg>
+               <lg>
+                  <l>God hath all ſent,</l>
+                  <l>For to be ſpent,</l>
+                  <l>And not to whord in ſtore:</l>
+                  <l>Why ſhould not than,</l>
+                  <l>A Gentleman,</l>
+                  <l>Eate it paying therfore?</l>
+               </lg>
+               <lg>
+                  <l>Should a vile ſlaue,</l>
+                  <l>So fine foode haue,</l>
+                  <l>As one of noble blood:</l>
+                  <l>Or ſhould a king,</l>
+                  <l>Lacke any thing,</l>
+                  <l>That is dainty and good?</l>
+               </lg>
+               <lg>
+                  <l>But let a king,</l>
+                  <l>Marke well this thing,</l>
+                  <l>And teach his nobles all:</l>
+                  <l>That fine féeding,</l>
+                  <l>Helpeth nothing,</l>
+                  <l>To life celeſtiall.</l>
+               </lg>
+               <lg>
+                  <l>And they that thinke,</l>
+                  <l>Their meate and drinke,</l>
+                  <l>Should paſſe others ſo farre:</l>
+                  <l>Ought well to know,</l>
+                  <pb facs="tcp:18815:38"/>
+                  <l>That high and low,</l>
+                  <l>Are made of one matter.</l>
+               </lg>
+               <lg>
+                  <l>King Salomon,</l>
+                  <l>Saith all is one,</l>
+                  <l>A poore man and a king:</l>
+                  <l>Are firſt gotten, And then borne,</l>
+                  <l>And differ yet nothing.</l>
+               </lg>
+               <lg>
+                  <l>Then are they fed,</l>
+                  <l>With milke and bread,</l>
+                  <l>Both like, both waile and wéepe,</l>
+                  <l>A like both crie, A like both lie,</l>
+                  <l>A like both wake and ſléepe.</l>
+               </lg>
+               <lg>
+                  <l>The mighty King,</l>
+                  <l>Is found nothing,</l>
+                  <l>Better than the begger:</l>
+                  <l>For by his birth, He is but erth,</l>
+                  <l>The beſt is no better.</l>
+               </lg>
+               <lg>
+                  <l>All looſe their ſtrength,</l>
+                  <l>By age at the length,</l>
+                  <l>All die and fall to duſt,</l>
+                  <l>This thing to bée, True ye may ſée,</l>
+                  <l>In their graues if you luſt.</l>
+               </lg>
+               <lg>
+                  <l>The noble blood,</l>
+                  <l>Doth them no good,</l>
+                  <l>Whe<g ref="char:cmbAbbrStroke">̄</g> they rot in y<hi rend="sup">e</hi> ground:</l>
+                  <l>Nor when they come,</l>
+                  <pb facs="tcp:18815:38"/>
+                  <l>To the laſt dome,</l>
+                  <l>Where beggers ſhalbe crounde.</l>
+               </lg>
+               <lg>
+                  <l>Some king ſhall ſtand,</l>
+                  <l>At the left hand,</l>
+                  <l>And ſay, when did we ſée:</l>
+                  <l>The Lord lacke ought,</l>
+                  <l>And we haue nought</l>
+                  <l>Holpe thy neceſſitie?</l>
+               </lg>
+               <lg>
+                  <l>But once for all,</l>
+                  <l>To them Chriſt ſhall</l>
+                  <l>Say, get you hence from me,</l>
+                  <l>Downe into hel,</l>
+                  <l>Where you muſt dwell,</l>
+                  <l>For your iniquitie.</l>
+               </lg>
+               <lg>
+                  <l>When ye denied,</l>
+                  <l>To them that cried,</l>
+                  <l>Aſking helpe in my name:</l>
+                  <l>Euen than was I, In miſery,</l>
+                  <l>The ſcripture ſayth the ſame.</l>
+               </lg>
+               <lg>
+                  <l>So harde iudgement,</l>
+                  <l>Toward them is bent,</l>
+                  <l>That haue all thing plentie:</l>
+                  <l>How harde they fare, Taking no care</l>
+                  <l>That are in poueriie.</l>
+               </lg>
+               <lg>
+                  <l>For riche men are,</l>
+                  <l>They that ſhould care,</l>
+                  <pb facs="tcp:18815:39"/>
+                  <l>For the poore impotent:</l>
+                  <l>Both goodes and landes,</l>
+                  <l>Are in their handes,</l>
+                  <l>Which ſerue for that intent.</l>
+               </lg>
+               <lg>
+                  <l>God gaue great power,</l>
+                  <l>And like honour,</l>
+                  <l>To ſome bicauſe they ſhould:</l>
+                  <l>Defend the reſt,</l>
+                  <l>Which are oppreſt,</l>
+                  <l>With thirſt, hunger, and cold.</l>
+               </lg>
+               <lg>
+                  <l>Should they then make,</l>
+                  <l>Reuell and take,</l>
+                  <l>Their pleaſure day and night:</l>
+                  <l>Letting the poore,</l>
+                  <l>Man lacke ſuccour,</l>
+                  <l>Who<g ref="char:cmbAbbrStroke">̄</g> they ſhould ayde by right.</l>
+               </lg>
+               <lg>
+                  <l>No they ſhall pay,</l>
+                  <l>At the laſt day,</l>
+                  <l>All that they haue miſpent:</l>
+                  <l>At cardes and dice,</l>
+                  <l>And other vice,</l>
+                  <l>And exceſſe of rayment.</l>
+               </lg>
+               <lg>
+                  <l>Broches and ringes,</l>
+                  <l>With other thinges,</l>
+                  <l>Which are had in great price:</l>
+                  <l>Helpeth nothing,</l>
+                  <pb facs="tcp:18815:39"/>
+                  <l>To good liuing,</l>
+                  <l>But rather vnto vice.</l>
+               </lg>
+               <lg>
+                  <l>For honeſtie,</l>
+                  <l>Will alwayes bée,</l>
+                  <l>Content with neceſſaries:</l>
+                  <l>Then muſt exceſſe,</l>
+                  <l>Be wickedneſſe,</l>
+                  <l>For they are contraries.</l>
+               </lg>
+               <lg>
+                  <l>Do you riche men,</l>
+                  <l>I muſt ſay then,</l>
+                  <l>Set fooliſhe toyes aſide:</l>
+                  <l>In all your wayes,</l>
+                  <l>During your dayes,</l>
+                  <l>Let conſcience be your guide.</l>
+               </lg>
+               <lg>
+                  <l>Let not the poore,</l>
+                  <l>Stand at your doore,</l>
+                  <l>And ſtarue for lacke of foode:</l>
+                  <l>Whiles that ye eate,</l>
+                  <l>All maner meate,</l>
+                  <l>Much more than doth you good.</l>
+               </lg>
+               <lg>
+                  <l>Kepe not in ſtore,</l>
+                  <l>Much clothing more,</l>
+                  <l>Tha<g ref="char:cmbAbbrStroke">̄</g> that you muſt nedes ware:</l>
+                  <l>Beſtow your golde,</l>
+                  <l>In tyme of colde,</l>
+                  <l>Vpon ſuch as be bare,</l>
+               </lg>
+               <pb facs="tcp:18815:40"/>
+               <lg>
+                  <l>Let your workes ſhow,</l>
+                  <l>That you do know</l>
+                  <l>Gods worde, ſet fantaſie</l>
+                  <l>Aparte, thinking</l>
+                  <l>Your ſelues nothing,</l>
+                  <l>Without the Lordes mercy.</l>
+               </lg>
+               <lg>
+                  <l>Perſuade your ſelfe,</l>
+                  <l>This worldly pelfe,</l>
+                  <l>To be but vanitie:</l>
+                  <l>And that ye ought,</l>
+                  <l>To withholde nought,</l>
+                  <l>From néedefull pouertie.</l>
+               </lg>
+               <lg>
+                  <l>You are not ſet,</l>
+                  <l>Riches to get,</l>
+                  <l>But to order the ſame:</l>
+                  <l>Miniſtering,</l>
+                  <l>Eche néedefull thyng,</l>
+                  <l>To halte, blinde, and to lame.</l>
+               </lg>
+               <lg>
+                  <l>And for to ſée,</l>
+                  <l>That ſuch men bée,</l>
+                  <l>Puniſhed that haue their helth:</l>
+                  <l>And wil not woorke,</l>
+                  <l>But lye and lurke,</l>
+                  <l>Hurting the common welth.</l>
+               </lg>
+               <lg>
+                  <l>Do not retayne,</l>
+                  <l>Such as diſdayne,</l>
+                  <pb facs="tcp:18815:40"/>
+                  <l>To worke hauing no landes:</l>
+                  <l>Nor qualities,</l>
+                  <l>Worthy of fées,</l>
+                  <l>Let ſuch worke w<hi rend="sup">c</hi> their handes.</l>
+               </lg>
+               <lg>
+                  <l>By idleneſſe,</l>
+                  <l>Vice doth increaſe,</l>
+                  <l>And vertues are oppreſt:</l>
+                  <l>Wherfore if ye,</l>
+                  <l>Loue honeſtie,</l>
+                  <l>Let theſe thinges be redreſt.</l>
+               </lg>
+               <lg>
+                  <l>Delight not in,</l>
+                  <l>Other mens ſinne,</l>
+                  <l>Nor your owne wickedneſſe:</l>
+                  <l>But faſt and pray,</l>
+                  <l>Striuing alway,</l>
+                  <l>To follow righteouſneſſe.</l>
+               </lg>
+               <lg>
+                  <l>Then the earthquake,</l>
+                  <l>Of vice ſhall take,</l>
+                  <l>No roote within your breaſt:</l>
+                  <l>You ſhall be ſtalde,</l>
+                  <l>As ye are calde,</l>
+                  <l>The children of beheaſt.</l>
+               </lg>
+               <lg>
+                  <l>And you that bée,</l>
+                  <l>Of lowe degrée,</l>
+                  <l>Submit you to the powers:</l>
+                  <l>Do you all thing,</l>
+                  <pb facs="tcp:18815:41"/>
+                  <l>By Chriſtes teaching,</l>
+                  <l>And his kingdome is yours.</l>
+               </lg>
+               <lg>
+                  <l>If you rebell,</l>
+                  <l>You do not well,</l>
+                  <l>But yet you may boldly,</l>
+                  <l>Profeſſe Gods worde,</l>
+                  <l>Fearing no ſworde,</l>
+                  <l>But ſuffer manfully.</l>
+               </lg>
+               <lg>
+                  <l>Repine not at,</l>
+                  <l>Your baſe eſtate,</l>
+                  <l>But rather giue glory:</l>
+                  <l>To God which hath,</l>
+                  <l>Made you a path</l>
+                  <l>Way, vnto victory.</l>
+               </lg>
+               <lg>
+                  <l>The riche men are,</l>
+                  <l>With worldly care,</l>
+                  <l>Oppreſt that ſcarcely they:</l>
+                  <l>Can at the laſt,</l>
+                  <l>Their loade downe caſt,</l>
+                  <l>And enter to your way.</l>
+               </lg>
+               <lg>
+                  <l>You haue therfore,</l>
+                  <l>Much cauſe the more,</l>
+                  <l>To render thankes to God:</l>
+                  <l>For that you may,</l>
+                  <l>Paſſe the ſtraight way,</l>
+                  <l>Eaſily with your light lode.</l>
+               </lg>
+               <pb facs="tcp:18815:41"/>
+               <lg>
+                  <l>Grudge not at ſuch,</l>
+                  <l>As haue ſo much,</l>
+                  <l>Treaſure as they call it:</l>
+                  <l>But rather pray,</l>
+                  <l>To God that they,</l>
+                  <l>May haue grace to vſe it.</l>
+               </lg>
+               <lg>
+                  <l>And then ſhall ye,</l>
+                  <l>Through charitie,</l>
+                  <l>Vpon Chriſt builde ſo ſure:</l>
+                  <l>That no earthquake,</l>
+                  <l>May your life ſhake,</l>
+                  <l>Nor worke you diſpleaſure.</l>
+               </lg>
+            </div>
+            <div n="5" type="part">
+               <head>5.</head>
+               <lg>
+                  <l>NOw let vs ſée,</l>
+                  <l>If the ſtarres bée,</l>
+                  <l>Falle<g ref="char:cmbAbbrStroke">̄</g> as Chriſt prophecied:</l>
+                  <l>Whoſe wondrous fall,</l>
+                  <l>The Diuines all,</l>
+                  <l>Haue thus interpreted.</l>
+               </lg>
+               <lg>
+                  <l>They ſay that by</l>
+                  <l>Aſtronomie,</l>
+                  <l>Men may wel vnderſtand:</l>
+                  <l>That the leaſt ſtarre,</l>
+                  <l>That doth appeare,</l>
+                  <l>Is more than all the land.</l>
+               </lg>
+               <pb facs="tcp:18815:42"/>
+               <lg>
+                  <l>Then they ſay that,</l>
+                  <l>If theſe ſo great,</l>
+                  <l>And ſo many ſhould fall:</l>
+                  <l>Before domes day,</l>
+                  <l>There were no way,</l>
+                  <l>We ſhould be quelled all.</l>
+               </lg>
+               <lg>
+                  <l>But Chriſtes Goſpell,</l>
+                  <l>Doth plainely tell,</l>
+                  <l>That euen at his comming,</l>
+                  <l>Men ſhall apply,</l>
+                  <l>Them buſily,</l>
+                  <l>To prouide for liuing.</l>
+               </lg>
+               <lg>
+                  <l>Some ſhall plante vines,</l>
+                  <l>And ſome preſſe wines,</l>
+                  <l>And ſome ſhall marry wiues:</l>
+                  <l>And ſome ſhall bie,</l>
+                  <l>To gaine therby,</l>
+                  <l>But few ſhall mende their liues.</l>
+               </lg>
+               <lg>
+                  <l>The ſonne of man,</l>
+                  <l>Shall appeare than,</l>
+                  <l>And take them ſodainly:</l>
+                  <l>When they thinke leſt,</l>
+                  <l>To be oppreſt,</l>
+                  <l>And liue moſt iocundly.</l>
+               </lg>
+               <lg>
+                  <l>Here we are taught,</l>
+                  <l>That they do naught,</l>
+                  <pb facs="tcp:18815:42"/>
+                  <l>And take the prophecie:</l>
+                  <l>Of Chriſt amis,</l>
+                  <l>That ſay there is,</l>
+                  <l>In it no myſterie.</l>
+               </lg>
+               <lg>
+                  <l>For if it were,</l>
+                  <l>So taken there,</l>
+                  <l>As the letter doth ſound:</l>
+                  <l>Two things plainly,</l>
+                  <l>Cleane contrary,</l>
+                  <l>In Gods worde ſhould be found</l>
+               </lg>
+               <lg>
+                  <l>Which cannot be,</l>
+                  <l>And therfore we,</l>
+                  <l>Muſt néedes graunt that there lieth:</l>
+                  <l>More myſterie,</l>
+                  <l>In prophecie,</l>
+                  <l>Than the worde ſignifieth.</l>
+               </lg>
+               <lg>
+                  <l>Let vs therfore,</l>
+                  <l>Tarie no more,</l>
+                  <l>Vpon the wordes onely:</l>
+                  <l>But let our minde,</l>
+                  <l>Be giuen to finde,</l>
+                  <l>What thing is meant therby.</l>
+               </lg>
+               <lg>
+                  <l>The ſtarres are bright,</l>
+                  <l>Both day and night,</l>
+                  <l>But when the Sunne is cleare,</l>
+                  <l>He doth ſo ſhine,</l>
+                  <pb facs="tcp:18815:43"/>
+                  <l>Before our eyne,</l>
+                  <l>That no ſtarre can appeare.</l>
+               </lg>
+               <lg>
+                  <l>But ſo ſoone as,</l>
+                  <l>The Sunne doth paſſe,</l>
+                  <l>The circle of our ſight:</l>
+                  <l>We may eſpie,</l>
+                  <l>Them eaſily,</l>
+                  <l>Through darknes of the night.</l>
+               </lg>
+               <lg>
+                  <l>Yet are they not,</l>
+                  <l>Themſelues of that,</l>
+                  <l>Nature to appeare bright,</l>
+                  <l>Vnleſſe <hi>Phoebus,</hi>
+                  </l>
+                  <l>Splendiferous</l>
+                  <l>Do endue them with light.</l>
+               </lg>
+               <lg>
+                  <l>Naturall light,</l>
+                  <l>Of day and night,</l>
+                  <l>Since the world was begunne:</l>
+                  <l>Is proued by</l>
+                  <l>Aſtronomie,</l>
+                  <l>To procéede of the Sunne.</l>
+               </lg>
+               <lg>
+                  <l>The ſtarres therfore,</l>
+                  <l>Haue euermore,</l>
+                  <l>Their light from <hi>Phoebus</hi> face:</l>
+                  <l>Although they bée,</l>
+                  <l>As we do ſée,</l>
+                  <l>Of a farre diſtant place.</l>
+               </lg>
+               <pb facs="tcp:18815:43"/>
+               <lg>
+                  <l>So the cleareneſſe,</l>
+                  <l>Of godlineſſe,</l>
+                  <l>By Gods worde is giuen:</l>
+                  <l>In like maner,</l>
+                  <l>To them that are,</l>
+                  <l>Of Chriſt called Chriſten.</l>
+               </lg>
+               <lg>
+                  <l>Chriſt by the ſters,</l>
+                  <l>Meant good liuers,</l>
+                  <l>whoſe works ſhew very bright:</l>
+                  <l>But their brightneſſe,</l>
+                  <l>Is but darkeneſſe,</l>
+                  <l>When Gods worde is in ſight.</l>
+               </lg>
+               <lg>
+                  <l>For Gods mercy,</l>
+                  <l>Sheweth ſo clearely,</l>
+                  <l>And mans vnworthineſſe:</l>
+                  <l>Is found ſo darke,</l>
+                  <l>That no good warke,</l>
+                  <l>May ſhew any brightneſſe.</l>
+               </lg>
+               <lg>
+                  <l>But the poore man,</l>
+                  <l>That neuer can,</l>
+                  <l>By day walke in the light:</l>
+                  <l>Of Gods worde muſt,</l>
+                  <l>Follow the iuſt,</l>
+                  <l>whoſe works ſhine in the night.</l>
+               </lg>
+               <lg>
+                  <l>The night I call,</l>
+                  <l>This world through all,</l>
+                  <pb facs="tcp:18815:44"/>
+                  <l>Wherin the chriſtian ſecte:</l>
+                  <l>Are as ſtarres bright,</l>
+                  <l>To giue them light,</l>
+                  <l>Whom darkenes doth infecte.</l>
+               </lg>
+               <lg>
+                  <l>The ſtarres ſhould moue,</l>
+                  <l>In heauen aboue,</l>
+                  <l>The ſhadow of the ground:</l>
+                  <l>That <hi>Phebus</hi> bright,</l>
+                  <l>Might giue them light,</l>
+                  <l>To ſhine in the world rounde.</l>
+               </lg>
+               <lg>
+                  <l>But now they bée,</l>
+                  <l>The more pitie,</l>
+                  <l>Eche one fallen fro thence:</l>
+                  <l>None do intend,</l>
+                  <l>For to aſcend</l>
+                  <l>Againe, and leaue their pence.</l>
+               </lg>
+               <lg>
+                  <l>But much rather,</l>
+                  <l>They go lower,</l>
+                  <l>To get golde and treaſure,</l>
+                  <l>Their onely minde,</l>
+                  <l>Is for to finde,</l>
+                  <l>Meanes to liue at pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>And they that would,</l>
+                  <l>That other ſhould,</l>
+                  <l>Take them for true leaders:</l>
+                  <l>Began to fall,</l>
+                  <pb facs="tcp:18815:44"/>
+                  <l>Downe firſt of all,</l>
+                  <l>And are now deceiuers.</l>
+               </lg>
+               <lg>
+                  <l>I meane prelates,</l>
+                  <l>And magiſtrates,</l>
+                  <l>Which ſay we muſt incline:</l>
+                  <l>Vs to agrée,</l>
+                  <l>With ſuch as bée,</l>
+                  <l>Men of great diſcipline.</l>
+               </lg>
+               <lg>
+                  <l>They ſay we muſt,</l>
+                  <l>Their iudgement truſt,</l>
+                  <l>And obey theyr decrées,</l>
+                  <l>Although we ſée,</l>
+                  <l>Them for to bée,</l>
+                  <l>Againſt Gods verities.</l>
+               </lg>
+               <lg>
+                  <l>They ſay how can,</l>
+                  <l>The priuate man,</l>
+                  <l>Diſcerne Gods veritie,</l>
+                  <l>If great prelates,</l>
+                  <l>And magiſtrates,</l>
+                  <l>Should teache the falſitie?</l>
+               </lg>
+               <lg>
+                  <l>For God they ſay,</l>
+                  <l>Giueth alway,</l>
+                  <l>The truth to the rulers:</l>
+                  <l>They cannot erre,</l>
+                  <l>In peace nor warre,</l>
+                  <l>That are Gods partakers.</l>
+               </lg>
+               <pb facs="tcp:18815:45"/>
+               <lg>
+                  <l>Would God they were,</l>
+                  <l>But many feare,</l>
+                  <l>Theſe will be tried at the laſt:</l>
+                  <l>To be nothing,</l>
+                  <l>But rauening</l>
+                  <l>Wolues ſéeking for repaſt.</l>
+               </lg>
+               <lg>
+                  <l>Such proude Prelates,</l>
+                  <l>And magiſtrates,</l>
+                  <l>I meane to ſéeke glory:</l>
+                  <l>To them and theirs,</l>
+                  <l>As though their heyres,</l>
+                  <l>Should haue the earth onely.</l>
+               </lg>
+               <lg>
+                  <l>Biſhop Cayphas,</l>
+                  <l>Pilate Annas,</l>
+                  <l>Herode with many mo:</l>
+                  <l>Were magiſtrates,</l>
+                  <l>And great Prelates,</l>
+                  <l>And yet wroght Chriſt much wo.</l>
+               </lg>
+               <lg>
+                  <l>Their feare to léeſe,</l>
+                  <l>Their dignities,</l>
+                  <l>Was cauſe that they did this,</l>
+                  <l>And that they ſlue,</l>
+                  <l>All preachers true,</l>
+                  <l>That were Chriſtes witneſſes.</l>
+               </lg>
+               <lg>
+                  <l>For they thought that,</l>
+                  <l>Their power could not,</l>
+                  <pb facs="tcp:18815:45"/>
+                  <l>Be able to reſiſt:</l>
+                  <l>And kéepe vnder,</l>
+                  <l>The great number,</l>
+                  <l>That wold haue folowed Chriſt.</l>
+               </lg>
+               <lg>
+                  <l>For they knew well,</l>
+                  <l>That his Goſpell,</l>
+                  <l>Agréed not with their pride:</l>
+                  <l>And thought if that,</l>
+                  <l>They ſlew him not,</l>
+                  <l>Their ſect would be deſtroide.</l>
+               </lg>
+               <lg>
+                  <l>Theſe were they that,</l>
+                  <l>Did ſtumble at,</l>
+                  <l>The ſtone in Iſraell,</l>
+                  <l>Euen their leaders,</l>
+                  <l>And chiefe rulers,</l>
+                  <l>As Scripture doth vs tell.</l>
+               </lg>
+               <lg>
+                  <l>Maiſters of ſchooles,</l>
+                  <l>Were proued fooles,</l>
+                  <l>And wiſe men lacked wit:</l>
+                  <l>But ſimple ſoules,</l>
+                  <l>That gathered tolles,</l>
+                  <l>And caught fiſhes had it.</l>
+               </lg>
+               <lg>
+                  <l>Euen ſo this day,</l>
+                  <l>Full well ye may,</l>
+                  <l>Affirme that Chriſt hideth:</l>
+                  <l>His myſteries,</l>
+                  <pb facs="tcp:18815:46"/>
+                  <l>From proude mens eyes,</l>
+                  <l>Which to babes he ſheweth.</l>
+               </lg>
+               <lg>
+                  <l>Princes Prelates,</l>
+                  <l>All magiſtrates,</l>
+                  <l>Could not deſtroy the pride:</l>
+                  <l>Of Rome till that,</l>
+                  <l>Poore men ſparde not,</l>
+                  <l>To ſpeake till ſome were fride.</l>
+               </lg>
+               <lg>
+                  <l>But at the laſt,</l>
+                  <l>It was downe caſt,</l>
+                  <l>Within this realme ye know:</l>
+                  <l>Both farre and nere,</l>
+                  <l>And Abbayes were,</l>
+                  <l>Suppreſt and brought ful low.</l>
+               </lg>
+               <lg>
+                  <l>Bicauſe therin,</l>
+                  <l>Was ſuch foule ſinne</l>
+                  <l>Vſed, and ſuch popery:</l>
+                  <l>That ſome men thought,</l>
+                  <l>The ground could not,</l>
+                  <l>Suſtaine their buggery.</l>
+               </lg>
+               <lg>
+                  <l>Well when this was,</l>
+                  <l>Thus come to paſſe,</l>
+                  <l>Men praiſed God in our king:</l>
+                  <l>Which by prudence,</l>
+                  <l>And diligence,</l>
+                  <l>Had brought to paſſe this thing.</l>
+               </lg>
+               <pb facs="tcp:18815:46"/>
+               <lg>
+                  <l>They looked for,</l>
+                  <l>To haue no more,</l>
+                  <l>Poperie maintainde here:</l>
+                  <l>Bicauſe within,</l>
+                  <l>This realme was ſéene,</l>
+                  <l>No Monke, Chanon, nor Frier.</l>
+               </lg>
+               <lg>
+                  <l>But apes will be,</l>
+                  <l>You may truſt me,</l>
+                  <l>Apes ſtill though their clothing:</l>
+                  <l>Were purple fine,</l>
+                  <l>Nought can incline</l>
+                  <l>Them to leaue their mowing.</l>
+               </lg>
+               <lg>
+                  <l>Theſe pied goates,</l>
+                  <l>Chaunged their coates,</l>
+                  <l>Yet are their mindes the ſame:</l>
+                  <l>That they were once,</l>
+                  <l>Though for the nonce,</l>
+                  <l>They do ſuch popery blame.</l>
+               </lg>
+               <lg>
+                  <l>Some weare miters,</l>
+                  <l>And ſome gray furres,</l>
+                  <l>And ſome haue cure of ſoules,</l>
+                  <l>But their liuing,</l>
+                  <l>Differeth nothing,</l>
+                  <l>From the<g ref="char:cmbAbbrStroke">̄</g> that dranke in boules.</l>
+               </lg>
+               <lg>
+                  <l>In Colledges,</l>
+                  <l>You cannot miſſe,</l>
+                  <pb facs="tcp:18815:47"/>
+                  <l>To ſée of them great ſtore:</l>
+                  <l>Where they apply,</l>
+                  <l>Their buggery,</l>
+                  <l>Euen as they did before.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore all ye,</l>
+                  <l>That learned be,</l>
+                  <l>And may do ought therin:</l>
+                  <l>Do what ye may,</l>
+                  <l>Both night and day,</l>
+                  <l>To plucke vp this fowle ſinne.</l>
+               </lg>
+               <lg>
+                  <l>Elſe doubt ye not,</l>
+                  <l>But the Lord that</l>
+                  <l>Burned the fiue cities:</l>
+                  <l>And hath caſt downe,</l>
+                  <l>In field and towne,</l>
+                  <l>The great and huge abbaies:</l>
+               </lg>
+               <lg>
+                  <l>For that foule ſinne,</l>
+                  <l>Will ſoone beginne,</l>
+                  <l>To make your place defart:</l>
+                  <l>No freſh ſinging,</l>
+                  <l>Nor gaye piping,</l>
+                  <l>Shal make ought for your part.</l>
+               </lg>
+               <lg>
+                  <l>Such as cannot,</l>
+                  <l>Refraine from that,</l>
+                  <l>Ought for to marry wiues:</l>
+                  <pb facs="tcp:18815:47"/>
+                  <l>No vowe can binde,</l>
+                  <l>Such as can finde,</l>
+                  <l>No meane to mende their liues.</l>
+               </lg>
+               <lg>
+                  <l>In eche degrée,</l>
+                  <l>Matrimonie,</l>
+                  <l>And the bedde vndefiled:</l>
+                  <l>Are holy thinges,</l>
+                  <l>Though the ſhauelings,</l>
+                  <l>Count maried men defiled.</l>
+               </lg>
+               <lg>
+                  <l>God graunt we may,</l>
+                  <l>Once ſée the day,</l>
+                  <l>Wherin we may be frée:</l>
+                  <l>To leade our liues,</l>
+                  <l>With honeſt wiues,</l>
+                  <l>And preach Gods veritie.</l>
+               </lg>
+               <lg>
+                  <l>For now he that,</l>
+                  <l>Conteyneth not,</l>
+                  <l>And hath the gift to preache:</l>
+                  <l>Muſt either hide,</l>
+                  <l>That gifte or bide,</l>
+                  <l>Still burning like a wretche.</l>
+               </lg>
+               <lg>
+                  <l>So that no man,</l>
+                  <l>Vnleſſe he can,</l>
+                  <l>Obtayne of God the gifte</l>
+                  <l>Of chaſtitie,</l>
+                  <pb facs="tcp:18815:48"/>
+                  <l>May looke to bée,</l>
+                  <l>A preacher by this drifte.</l>
+               </lg>
+               <lg>
+                  <l>And doubtles this,</l>
+                  <l>Were not amis,</l>
+                  <l>If God would not require:</l>
+                  <l>Increaſe of that,</l>
+                  <l>Which man hath at,</l>
+                  <l>His hande receiued here.</l>
+               </lg>
+               <lg>
+                  <l>But ſith God will,</l>
+                  <l>Puniſhe them ſtill,</l>
+                  <l>That doth not occupie:</l>
+                  <l>Their talentes than,</l>
+                  <l>No Iuſtice can,</l>
+                  <l>Deny them libertie.</l>
+               </lg>
+               <lg>
+                  <l>Let no popery,</l>
+                  <l>Therfore deny,</l>
+                  <l>Chriſtes membres to profet:</l>
+                  <l>Eche other ſtill,</l>
+                  <l>After Gods will,</l>
+                  <l>With ſuch giftes as they get.</l>
+               </lg>
+               <lg>
+                  <l>Let all men bée,</l>
+                  <l>At libertie,</l>
+                  <l>To preach if that they can,</l>
+                  <l>An honeſt wife,</l>
+                  <l>Hurteth not the life,</l>
+                  <l>Of any godly man.</l>
+               </lg>
+               <pb facs="tcp:18815:48"/>
+               <lg>
+                  <l>Moſt noble king,</l>
+                  <l>Helpe in this thing,</l>
+                  <l>And giue them libertie:</l>
+                  <l>To preach that can,</l>
+                  <l>Though a woman,</l>
+                  <l>Do helpe their chaſtitie.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall you ſée,</l>
+                  <l>The veritie,</l>
+                  <l>Of gods word taught ful plainly</l>
+                  <l>By them that will,</l>
+                  <l>Defend no ill,</l>
+                  <l>To haue liuing therby.</l>
+               </lg>
+               <lg>
+                  <l>But ſome will ſay,</l>
+                  <l>That by this way,</l>
+                  <l>Great ſchiſme ſhall ariſe:</l>
+                  <l>For the cleargie</l>
+                  <l>And the laitie,</l>
+                  <l>Will preach two contraries.</l>
+               </lg>
+               <lg>
+                  <l>Graunt that they do,</l>
+                  <l>Yet of them two,</l>
+                  <l>One ſhall not miſſe to ſpeake:</l>
+                  <l>The truth alway,</l>
+                  <l>Where now men ſay,</l>
+                  <l>To lye prieſtes do not reake.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhould we bée,</l>
+                  <l>In worſſe degrée</l>
+                  <pb facs="tcp:18815:49"/>
+                  <l>Say they, than we be now:</l>
+                  <l>For no man could,</l>
+                  <l>Tell which he ſhould,</l>
+                  <l>Of theſe two ſortes follow.</l>
+               </lg>
+               <lg>
+                  <l>Yes yes be bolde,</l>
+                  <l>It were ſoone tolde,</l>
+                  <l>Which of them preacheth true:</l>
+                  <l>For true preachers,</l>
+                  <l>Are obſeruers,</l>
+                  <l>Of Gods co<g ref="char:cmbAbbrStroke">̄</g>maundement new.</l>
+               </lg>
+               <lg>
+                  <l>A newe precept,</l>
+                  <l>For to be kept,</l>
+                  <l>Saith Chriſt I giue you now:</l>
+                  <l>That eche brother,</l>
+                  <l>Loue an other,</l>
+                  <l>Euen as I haue loued you.</l>
+               </lg>
+               <lg>
+                  <l>For by that ſigne,</l>
+                  <l>Such as are mine,</l>
+                  <l>Shall be knowen to all men:</l>
+                  <l>Faith cannot bée,</l>
+                  <l>Where charitie,</l>
+                  <l>Is not the graunde capteine.</l>
+               </lg>
+               <lg>
+                  <l>That ſorte that loue,</l>
+                  <l>As is aboue,</l>
+                  <l>Eche other faithfully:</l>
+                  <l>And will betake,</l>
+                  <pb facs="tcp:18815:49"/>
+                  <l>Them to the ſtake,</l>
+                  <l>Ere they wil ought deny,</l>
+               </lg>
+               <lg>
+                  <l>Of that they preach,</l>
+                  <l>That ſorte doth teach,</l>
+                  <l>The truth you may be ſure:</l>
+                  <l>Theſe will not ſay,</l>
+                  <l>Both yea and nay,</l>
+                  <l>For any mans pleaſure.</l>
+               </lg>
+               <lg>
+                  <l>Yet once againe,</l>
+                  <l>Such as diſdaine,</l>
+                  <l>That maried me<g ref="char:cmbAbbrStroke">̄</g> ſhould preach:</l>
+                  <l>Will ſay that then,</l>
+                  <l>All maried men,</l>
+                  <l>Will count eche prieſt a wretch.</l>
+               </lg>
+               <lg>
+                  <l>What forceth that,</l>
+                  <l>If prieſtes be not</l>
+                  <l>Of Chriſt, but of Satan:</l>
+                  <l>We may ordaine,</l>
+                  <l>Mo prieſtes againe,</l>
+                  <l>After the inwarde man.</l>
+               </lg>
+               <lg>
+                  <l>None ſhould regard,</l>
+                  <l>Such as outwarde,</l>
+                  <l>Signes do make prieſts onely:</l>
+                  <l>But them whoſe life,</l>
+                  <l>Is without ſtrife,</l>
+                  <l>And their doctrine godly.</l>
+               </lg>
+               <pb facs="tcp:18815:50"/>
+               <lg>
+                  <l>Vnfainedly,</l>
+                  <l>Such are worthy,</l>
+                  <l>To haue double honour,</l>
+                  <l>For that they are,</l>
+                  <l>So full of care,</l>
+                  <l>To helpe their chriſten brother.</l>
+               </lg>
+               <lg>
+                  <l>Such men looke not,</l>
+                  <l>For the crowne that,</l>
+                  <l>Shall be taken them fro,</l>
+                  <l>But to encreſe,</l>
+                  <l>Godly riches,</l>
+                  <l>Is all thing that they do.</l>
+               </lg>
+               <lg>
+                  <l>But now alas,</l>
+                  <l>In how hard caſe,</l>
+                  <l>Standeth this world this day:</l>
+                  <l>When all Rulers,</l>
+                  <l>And all Preachers,</l>
+                  <l>Forſake this godly way.</l>
+               </lg>
+               <lg>
+                  <l>Who would not bée,</l>
+                  <l>Of high degrée</l>
+                  <l>This day, what Prince or King:</l>
+                  <l>Deſireth not,</l>
+                  <l>More rule than that,</l>
+                  <l>Was his fathers leauing.</l>
+               </lg>
+               <lg>
+                  <l>Their onely care,</l>
+                  <l>Is for to fare,</l>
+                  <pb facs="tcp:18815:50"/>
+                  <l>Delicately eche day:</l>
+                  <l>And to maintaine,</l>
+                  <l>This they are faine,</l>
+                  <l>To get all that they may.</l>
+               </lg>
+               <lg>
+                  <l>Might is their law,</l>
+                  <l>Wherby they draw,</l>
+                  <l>All goodes into their handes:</l>
+                  <l>And he that will,</l>
+                  <l>Say they do ill,</l>
+                  <l>Shal looſe both goodes &amp; landes.</l>
+               </lg>
+               <lg>
+                  <l>They thinke not, that</l>
+                  <l>They were made at</l>
+                  <l>The firſt, them to defend,</l>
+                  <l>That haue no might,</l>
+                  <l>To kéepe their right,</l>
+                  <l>Nor their wrongs to amend.</l>
+               </lg>
+               <lg>
+                  <l>For that intent,</l>
+                  <l>Sufficient</l>
+                  <l>Landes, was giuen to eche one:</l>
+                  <l>Bicauſe he ſhould,</l>
+                  <l>Do what he could,</l>
+                  <l>To ſaue the weale commone.</l>
+               </lg>
+               <lg>
+                  <l>But now they be,</l>
+                  <l>The more pitie,</l>
+                  <l>So fonde of vaine honour:</l>
+                  <l>That on the ground,</l>
+                  <pb facs="tcp:18815:51"/>
+                  <l>Scarce can be found,</l>
+                  <l>Inough for their owne ſtore.</l>
+               </lg>
+               <lg>
+                  <l>Both more and leſſe,</l>
+                  <l>Study to paſſe,</l>
+                  <l>Their forefathers degrée:</l>
+                  <l>Thinking it ſhame,</l>
+                  <l>To beare the name,</l>
+                  <l>Of fruitfull pouertie.</l>
+               </lg>
+               <lg>
+                  <l>Lordes muſt incloſe,</l>
+                  <l>Paſtures, medowes,</l>
+                  <l>To holde in their owne handes:</l>
+                  <l>And that the rent,</l>
+                  <l>May kepe his ſtent,</l>
+                  <l>They muſt improue their lands.</l>
+               </lg>
+               <lg>
+                  <l>The merchant man,</l>
+                  <l>Doth what he can,</l>
+                  <l>To be Lord ouer townes:</l>
+                  <l>Eche king is bent,</l>
+                  <l>With full intent,</l>
+                  <l>To ſubdue many crownes.</l>
+               </lg>
+               <lg>
+                  <l>Alas the while,</l>
+                  <l>They do begile,</l>
+                  <l>Themſelues now euery one:</l>
+                  <l>Thinking that they,</l>
+                  <l>Shall raigne alway,</l>
+                  <l>Vpon the ground alone.</l>
+               </lg>
+               <pb facs="tcp:18815:51"/>
+               <lg>
+                  <l>The day ſhall come,</l>
+                  <l>When their kingdome,</l>
+                  <l>Shall not be worth a ſtraw:</l>
+                  <l>Nor they themſelfe,</l>
+                  <l>With all their pelfe,</l>
+                  <l>The value of an haw.</l>
+               </lg>
+               <lg>
+                  <l>Their golde and all,</l>
+                  <l>To duſte will fall,</l>
+                  <l>This is to manifeſt,</l>
+                  <l>And they alſo,</l>
+                  <l>Muſt after go,</l>
+                  <l>Perchance when they thinke leſt</l>
+               </lg>
+               <lg>
+                  <l>What folly then,</l>
+                  <l>Is in theſe men,</l>
+                  <l>To leaue Gods veritie,</l>
+                  <l>And to apply,</l>
+                  <l>So buſily,</l>
+                  <l>This worldly vanitie?</l>
+               </lg>
+               <lg>
+                  <l>But I you pray,</l>
+                  <l>Harke what I ſay,</l>
+                  <l>And giue me eare a while:</l>
+                  <l>I ſhall you ſhew,</l>
+                  <l>At wordes few,</l>
+                  <l>What doth theſe men begile.</l>
+               </lg>
+               <lg>
+                  <l>They thinke God will,</l>
+                  <l>Compte nothing ill,</l>
+                  <pb facs="tcp:18815:52"/>
+                  <l>That mans law iuſtifieth:</l>
+                  <l>And that by might,</l>
+                  <l>To claime their right,</l>
+                  <l>With Gods worde agréeth.</l>
+               </lg>
+               <lg>
+                  <l>To make the beſt,</l>
+                  <l>Of moſt and leſt,</l>
+                  <l>Is lawfull for eche man,</l>
+                  <l>They ſay, and to</l>
+                  <l>Be bound to do,</l>
+                  <l>For no man though they can.</l>
+               </lg>
+               <lg>
+                  <l>To gather pelfe,</l>
+                  <l>Eche for himſelfe,</l>
+                  <l>So they do no man wrong:</l>
+                  <l>Is not they ſay,</l>
+                  <l>Out of the way,</l>
+                  <l>Such errours are vp ſprong.</l>
+               </lg>
+               <lg>
+                  <l>Feare to diſpleaſe,</l>
+                  <l>Deſire of eaſe,</l>
+                  <l>And cloked flattery:</l>
+                  <l>As I ſuppoſe,</l>
+                  <l>Hath made men gloſe,</l>
+                  <l>Gods worde ſo ſubtilly.</l>
+               </lg>
+               <lg>
+                  <l>But if the kings,</l>
+                  <l>With their lordings,</l>
+                  <l>Would lead the daunce aright:</l>
+                  <l>We may be bold,</l>
+                  <pb facs="tcp:18815:52"/>
+                  <l>The poore men would,</l>
+                  <l>Follow with all their might.</l>
+               </lg>
+               <lg>
+                  <l>You kings therefore,</l>
+                  <l>Couet no more,</l>
+                  <l>One to ſubdue the reſt:</l>
+                  <l>But let your ſtrife,</l>
+                  <l>Be in good life,</l>
+                  <l>Which of you can rule beſt.</l>
+               </lg>
+               <lg>
+                  <l>Deſire not,</l>
+                  <l>To rule them that,</l>
+                  <l>Refuſe your imperie</l>
+                  <l>But do intend,</l>
+                  <l>Them to defend,</l>
+                  <l>That ſerue you willingly.</l>
+               </lg>
+               <lg>
+                  <l>And you lordings,</l>
+                  <l>Leaue your diggings,</l>
+                  <l>And your raiſing of rentes,</l>
+                  <l>Take not ſuch fines,</l>
+                  <l>To by you wines,</l>
+                  <l>For God knoweth your intents</l>
+               </lg>
+               <lg>
+                  <l>And you merchantes,</l>
+                  <l>Be not ſeruantes,</l>
+                  <l>To coueteous deſire:</l>
+                  <l>But ſell and bie,</l>
+                  <l>All thinges truely</l>
+                  <l>And God ſhall giue you hier.</l>
+               </lg>
+               <pb facs="tcp:18815:53"/>
+               <lg>
+                  <l>Briefly all ye,</l>
+                  <l>That of Chriſt be,</l>
+                  <l>Cognomed Chriſtians,</l>
+                  <l>Study to moue,</l>
+                  <l>In heauen aboue,</l>
+                  <l>This earthly inhabitance,</l>
+               </lg>
+               <lg>
+                  <l>Let men know that,</l>
+                  <l>You regarde not,</l>
+                  <l>This worldly vanitie:</l>
+                  <l>But let them ſée,</l>
+                  <l>That your workes bée,</l>
+                  <l>Fruites of Gods veritie.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall your méede,</l>
+                  <l>As farre excéede,</l>
+                  <l>When Chriſt ſhall iudge vs all:</l>
+                  <l>Theirs that by ſinne,</l>
+                  <l>Would heauen winne,</l>
+                  <l>As the frée doth the thrall.</l>
+               </lg>
+            </div>
+            <div n="6" type="part">
+               <head>6</head>
+               <lg>
+                  <l>NOw let vs ſée,</l>
+                  <l>If the Moone bée</l>
+                  <l>Blud as chriſt prophecied</l>
+                  <l>That we may trie,</l>
+                  <l>What myſterie,</l>
+                  <l>Vnder the wordes lieth.</l>
+               </lg>
+               <pb facs="tcp:18815:53"/>
+               <lg>
+                  <l>I did you tell,</l>
+                  <l>As I thinke well,</l>
+                  <l>That ſince the world begunne:</l>
+                  <l>Both day and night,</l>
+                  <l>Haue all their light,</l>
+                  <l>At the beames of the ſunne.</l>
+               </lg>
+               <lg>
+                  <l>This if you liſt,</l>
+                  <l>Is tried ſooneſt,</l>
+                  <l>By marking the Moones light,</l>
+                  <l>Which doth alway,</l>
+                  <l>Growe and decay,</l>
+                  <l>As we may iudge by ſight.</l>
+               </lg>
+               <lg>
+                  <l>The cauſe of this,</l>
+                  <l>Vndoubted is,</l>
+                  <l>The vnequall diſtaunce:</l>
+                  <l>Of the Moone from,</l>
+                  <l>The Sunne by whom,</l>
+                  <l>She doth hir light auaunce.</l>
+               </lg>
+               <lg>
+                  <l>Marke if ye liſt,</l>
+                  <l>That ſide ſooneſt,</l>
+                  <l>Receiueth light alway:</l>
+                  <l>That is next to</l>
+                  <l>The Sunne and ſo,</l>
+                  <l>The other doth decay.</l>
+               </lg>
+               <lg>
+                  <l>Yea if you marke,</l>
+                  <l>That ſide is darke,</l>
+                  <pb facs="tcp:18815:54"/>
+                  <l>That is fromwarde the ſunne:</l>
+                  <l>When that is bright,</l>
+                  <l>Both day and night,</l>
+                  <l>That <hi>Phoebus</hi> ſhineth on.</l>
+               </lg>
+               <lg>
+                  <l>Aſke if ye will,</l>
+                  <l>Them that can ſkill,</l>
+                  <l>And they wil not make ſtrange:</l>
+                  <l>That <hi>Phoebus</hi> bright,</l>
+                  <l>Should haue full light,</l>
+                  <l>Both at full and at change.</l>
+               </lg>
+               <lg>
+                  <l>For they haue found,</l>
+                  <l>That ſhe is round,</l>
+                  <l>And that halfe is aye bright:</l>
+                  <l>Which is not ſtraunge,</l>
+                  <l>Though at the chaunge,</l>
+                  <l>It be out of our ſight.</l>
+               </lg>
+               <lg>
+                  <l>For at that tide,</l>
+                  <l>The further ſide,</l>
+                  <l>From vs is toward the Sunne:</l>
+                  <l>So that no light,</l>
+                  <l>Sheweth to our ſight,</l>
+                  <l>To be vpon the Moone.</l>
+               </lg>
+               <lg>
+                  <l>If this Moone ſhould</l>
+                  <l>Be bloud, none could</l>
+                  <l>Make the ſcriptures agrée:</l>
+                  <l>For the great dome</l>
+                  <pb facs="tcp:18815:54"/>
+                  <l>Saith <hi>Paule,</hi> ſhall come</l>
+                  <l>Vpon men ſodainlie.</l>
+               </lg>
+               <lg>
+                  <l>Euen when men ſay,</l>
+                  <l>All care away,</l>
+                  <l>All thinges are in good plight:</l>
+                  <l>This ſodaine day,</l>
+                  <l>Shall men affray,</l>
+                  <l>As a théefe in the night.</l>
+               </lg>
+               <lg>
+                  <l>If a théefe do,</l>
+                  <l>Giue warning to</l>
+                  <l>Him whoſe houſe he wil breake</l>
+                  <l>Then may we ſay,</l>
+                  <l>This ſodaine day,</l>
+                  <l>Shall not lie in our necke.</l>
+               </lg>
+               <lg>
+                  <l>But I ſay if,</l>
+                  <l>The ſubtile théefe,</l>
+                  <l>Giue no warning before:</l>
+                  <l>Then to thinke the</l>
+                  <l>Moone bloud to be,</l>
+                  <l>We were deceiued ſore.</l>
+               </lg>
+               <lg>
+                  <l>Then let vs ſée,</l>
+                  <l>What it may bée,</l>
+                  <l>That Chriſt meaneth in this place:</l>
+                  <l>Endeuouring</l>
+                  <l>Aboue all thing,</l>
+                  <l>To apply to his grace.</l>
+               </lg>
+               <pb facs="tcp:18815:55"/>
+               <lg>
+                  <l>The Moone I call,</l>
+                  <l>That ſort through all,</l>
+                  <l>To who<g ref="char:cmbAbbrStroke">̄</g> God giueth not grace.</l>
+                  <l>To attaine to</l>
+                  <l>Such things as do</l>
+                  <l>Godly knowledge increaſe.</l>
+               </lg>
+               <lg>
+                  <l>For all the light,</l>
+                  <l>That ſhineth bright,</l>
+                  <l>On them is from the ſunne:</l>
+                  <l>Which is no doubte,</l>
+                  <l>The very roote,</l>
+                  <l>That Gods grace lighteth on.</l>
+               </lg>
+               <lg>
+                  <l>Of theſe Chriſt ſaith,</l>
+                  <l>Your fruitefull faith,</l>
+                  <l>Sheweth you to be the light:</l>
+                  <l>Of this world round,</l>
+                  <l>And of the ground,</l>
+                  <l>The ſalte your ſurname hight.</l>
+               </lg>
+               <lg>
+                  <l>This Moone no nay,</l>
+                  <l>Is bloud this day,</l>
+                  <l>For all their deſire is:</l>
+                  <l>To ſée men fry,</l>
+                  <l>And then they cry,</l>
+                  <l>O godly ſacrifice.</l>
+               </lg>
+               <lg>
+                  <l>Theſe men can ſing,</l>
+                  <l>None other thing,</l>
+                  <pb facs="tcp:18815:55"/>
+                  <l>But burne, burne, hang &amp; draw:</l>
+                  <l>Let no man ſcape,</l>
+                  <l>Out of our ſhrape.</l>
+                  <l>Be he wiſe man or daw.</l>
+               </lg>
+               <lg>
+                  <l>Try we our might</l>
+                  <l>(Say they) in fight,</l>
+                  <l>Againſt our enimies:</l>
+                  <l>It ſhall be good,</l>
+                  <l>To ſée their blood,</l>
+                  <l>Runne out before our eies.</l>
+               </lg>
+               <lg>
+                  <l>Let vs poſſeſſe,</l>
+                  <l>All their richeſſe,</l>
+                  <l>Let the knaues liue no more:</l>
+                  <l>Shall we ſuffer,</l>
+                  <l>Them to proſper,</l>
+                  <l>That ſet by vs no ſtore?</l>
+               </lg>
+               <lg>
+                  <l>It is noble,</l>
+                  <l>To be manfull,</l>
+                  <l>Fie on all wretched knaues:</l>
+                  <l>That to vs preach,</l>
+                  <l>And would vs teach,</l>
+                  <l>To liue like wretched ſlaues.</l>
+               </lg>
+               <lg>
+                  <l>Let eche man try</l>
+                  <l>It manfully,</l>
+                  <l>what ſhould we paſſe for lawes?</l>
+                  <l>They were not made,</l>
+                  <pb facs="tcp:18815:56"/>
+                  <l>For to be had,</l>
+                  <l>Amongeſt other than dawes.</l>
+               </lg>
+               <lg>
+                  <l>Who would regard,</l>
+                  <l>A knaue coward,</l>
+                  <l>That dare not ſtrike a ſtroke?</l>
+                  <l>Say what you can,</l>
+                  <l>He is no man,</l>
+                  <l>But rather a dead ſtocke.</l>
+               </lg>
+               <lg>
+                  <l>It is manhood,</l>
+                  <l>To ſhed your blood,</l>
+                  <l>For eche good fellowes ſake:</l>
+                  <l>He is a mome,</l>
+                  <l>Iohn dwell at home,</l>
+                  <l>That feareth a fray to make.</l>
+               </lg>
+               <lg>
+                  <l>Alas this ſong,</l>
+                  <l>Hath laſt ſo long,</l>
+                  <l>That the Moone is all blood:</l>
+                  <l>They thinke nothing,</l>
+                  <l>But bloodſheding,</l>
+                  <l>To be manly and good.</l>
+               </lg>
+               <lg>
+                  <l>They take no ſhame,</l>
+                  <l>To beare the name</l>
+                  <l>Of Chriſt, whoſe doctrine is</l>
+                  <l>Full of méekeneſſe,</l>
+                  <l>And forgiueneſſe,</l>
+                  <l>Eche one of others mis.</l>
+               </lg>
+               <pb facs="tcp:18815:56"/>
+               <lg>
+                  <l>And yet they will,</l>
+                  <l>Shead mans bloud ſtill:</l>
+                  <l>As it were none offence:</l>
+                  <l>But Chriſt ſhall quell,</l>
+                  <l>Such into hell,</l>
+                  <l>To make them recompence.</l>
+               </lg>
+               <lg>
+                  <l>Thus he ſhall ſay,</l>
+                  <l>At the laſt day,</l>
+                  <l>To this noble manhood,</l>
+                  <l>Auoyde from me,</l>
+                  <l>All you that be,</l>
+                  <l>The ſheaders of mans bloode.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall méekeneſſe,</l>
+                  <l>Come and poſſeſſe,</l>
+                  <l>Euerlaſting glory,</l>
+                  <l>And ſufferance,</l>
+                  <l>Inheritaunce,</l>
+                  <l>That is not tranſitorie.</l>
+               </lg>
+               <lg>
+                  <l>To the Iewes ſterne,</l>
+                  <l>Chriſt ſayth, go learne</l>
+                  <l>What this may ſignify:</l>
+                  <l>I haue in price,</l>
+                  <l>No ſacrifice,</l>
+                  <l>I delight in mercy.</l>
+               </lg>
+               <lg>
+                  <l>Leaue tiranny,</l>
+                  <l>And ſhew mercy,</l>
+                  <pb facs="tcp:18815:57"/>
+                  <l>Therfore ye men of power:</l>
+                  <l>For he that is</l>
+                  <l>Cruell, ſhall mis,</l>
+                  <l>Of mercy in that hower.</l>
+               </lg>
+               <lg>
+                  <l>Marke this thing well,</l>
+                  <l>That the Goſpell</l>
+                  <l>Teacheth, to them ſhall bée</l>
+                  <l>Iudgement, without</l>
+                  <l>Mercy no doubte,</l>
+                  <l>That ſhew extremitie.</l>
+               </lg>
+            </div>
+            <div n="7" type="part">
+               <head>7</head>
+               <lg>
+                  <l>THe Sunne is bright,</l>
+                  <l>And giueth light,</l>
+                  <l>As he hath done alway:</l>
+                  <l>And ſhall do ſtill,</l>
+                  <l>Euen vntill,</l>
+                  <l>The very iudgement day.</l>
+               </lg>
+               <lg>
+                  <l>For as it did,</l>
+                  <l>Till <hi>Noe</hi> entred,</l>
+                  <l>Into the arke ſhine bright:</l>
+                  <l>So ſhall it do,</l>
+                  <l>Till Chriſt come to</l>
+                  <l>Iudge all the worlde aright.</l>
+               </lg>
+               <lg>
+                  <l>Some other thing,</l>
+                  <l>Is the meanyng,</l>
+                  <pb facs="tcp:18815:57"/>
+                  <l>Therfore of Chriſt, where he</l>
+                  <l>Sayth, <hi>Phoebus</hi> bright</l>
+                  <l>Shall looſe his light,</l>
+                  <l>Before this day ſhall be.</l>
+               </lg>
+               <lg>
+                  <l>We do knowe all,</l>
+                  <l>The naturall,</l>
+                  <l>Light of this worlde to be:</l>
+                  <l>The ſunne, and ſo</l>
+                  <l>Alludyng to,</l>
+                  <l>The ſpirite thus ſay may we.</l>
+               </lg>
+               <lg>
+                  <l>Like as the Sunne,</l>
+                  <l>Since he begunne</l>
+                  <l>His courſe, hath giuen vs light:</l>
+                  <l>So hath the ſecte,</l>
+                  <l>Of Chriſtes electe,</l>
+                  <l>Bene glorious in our ſight.</l>
+               </lg>
+               <lg>
+                  <l>Wherfore he might,</l>
+                  <l>Say thus of right,</l>
+                  <l>The Sunne ſhall be darkened:</l>
+                  <l>When he meaneth,</l>
+                  <l>Their light faileth,</l>
+                  <l>That haue to me harkened.</l>
+               </lg>
+               <lg>
+                  <l>Such as profeſſe,</l>
+                  <l>All holineſſe,</l>
+                  <l>And would be called the light:</l>
+                  <l>Of this worlde wide,</l>
+                  <pb facs="tcp:18815:58"/>
+                  <l>Shall ere that tide,</l>
+                  <l>Be as darke as midnight.</l>
+               </lg>
+               <lg>
+                  <l>Their life ſhall bée,</l>
+                  <l>All vanitie,</l>
+                  <l>They ſhall ſay and not do:</l>
+                  <l>They ſhall offende,</l>
+                  <l>And not amende,</l>
+                  <l>Nor for their miſſe be wo.</l>
+               </lg>
+               <lg>
+                  <l>This greate darkeneſſe,</l>
+                  <l>Shall them oppreſſe,</l>
+                  <l>Sayth Chriſt, let vs therfore</l>
+                  <l>Marke this tyme well,</l>
+                  <l>For the Goſpell,</l>
+                  <l>May be fulfilled this houre.</l>
+               </lg>
+               <lg>
+                  <l>Do not men boaſt,</l>
+                  <l>In euery coaſt,</l>
+                  <l>That their truſt is onely:</l>
+                  <l>In Ieſus Chriſt,</l>
+                  <l>Sonne of the hieſt,</l>
+                  <l>And yet liue vngodly?</l>
+               </lg>
+               <lg>
+                  <l>They that profeſſe,</l>
+                  <l>This perfectneſſe,</l>
+                  <l>Are of Chriſt called the light</l>
+                  <l>Of this worlde wide,</l>
+                  <l>Which at this tide,</l>
+                  <l>Do ſhine nothing ſo bright.</l>
+               </lg>
+               <pb facs="tcp:18815:58"/>
+               <lg>
+                  <l>As they did once,</l>
+                  <l>When they did renounce,</l>
+                  <l>All worldely vanitie:</l>
+                  <l>Hauing no minde,</l>
+                  <l>Treaſures to finde,</l>
+                  <l>That are but tranſitorie.</l>
+               </lg>
+               <lg>
+                  <l>For <hi>Epicure,</hi>
+                  </l>
+                  <l>Sought not pleaſure,</l>
+                  <l>So much as theſe men do:</l>
+                  <l>That do vſe moſt,</l>
+                  <l>To make ſuch boaſt,</l>
+                  <l>Of Chriſt whom they cleane to.</l>
+               </lg>
+               <lg>
+                  <l>Soft feather beds,</l>
+                  <l>And for their heads,</l>
+                  <l>Pillows wel ſtuft with downe:</l>
+                  <l>No kynde of eaſe,</l>
+                  <l>Can them well pleaſe,</l>
+                  <l>Either in fielde or towne.</l>
+               </lg>
+               <lg>
+                  <l>They may not eate,</l>
+                  <l>Such kynde of meate,</l>
+                  <l>As God giueth plenty:</l>
+                  <l>They will not dine,</l>
+                  <l>Without ſome fine</l>
+                  <l>Diſhes that be deintie.</l>
+               </lg>
+               <lg>
+                  <l>They will not ſpare,</l>
+                  <l>For them that are,</l>
+                  <pb facs="tcp:18815:59"/>
+                  <l>Oppreſt with pouertie</l>
+                  <l>They take no kéepe,</l>
+                  <l>Though other wéepe,</l>
+                  <l>So they be not hungrie.</l>
+               </lg>
+               <lg>
+                  <l>I can not tell,</l>
+                  <l>Whether in hell,</l>
+                  <l>May be leſſe charitie:</l>
+                  <l>Than is this day,</l>
+                  <l>In moſt that ſay,</l>
+                  <l>We know Gods veritie.</l>
+               </lg>
+               <lg>
+                  <l>None take ſuch care,</l>
+                  <l>For dainty fare,</l>
+                  <l>As they, none paſſe leſſe howe</l>
+                  <l>They get richeſſe,</l>
+                  <l>So they poſſeſſe,</l>
+                  <l>Therof plenty ynowe.</l>
+               </lg>
+               <lg>
+                  <l>Their Simonie,</l>
+                  <l>And vſerie,</l>
+                  <l>I thinke is right well knowne:</l>
+                  <l>For all that may,</l>
+                  <l>Be wonne that way,</l>
+                  <l>Is counted for their owne.</l>
+               </lg>
+               <lg>
+                  <l>Thus they are darke,</l>
+                  <l>For their good warke,</l>
+                  <l>Doth not ſhine in mens ſight:</l>
+                  <l>Though they profeſſe,</l>
+                  <pb facs="tcp:18815:59"/>
+                  <l>Such perfectneſſe,</l>
+                  <l>As ought to ſhine full bright.</l>
+               </lg>
+               <lg>
+                  <l>We may apply,</l>
+                  <l>This prophecy,</l>
+                  <l>To Gods worde, affirming</l>
+                  <l>It to be darke,</l>
+                  <l>Through the leude warke,</l>
+                  <l>Of dunſecall learning.</l>
+               </lg>
+               <lg>
+                  <l>The Moone alſo,</l>
+                  <l>May be like to</l>
+                  <l>Mans vayne inuentions:</l>
+                  <l>Which are this day,</l>
+                  <l>I dare well ſay,</l>
+                  <l>Bloudy intentions.</l>
+               </lg>
+               <lg>
+                  <l>But I ſeyng,</l>
+                  <l>The miſſe liuing,</l>
+                  <l>Of all degrées this day:</l>
+                  <l>Haue choſe rather,</l>
+                  <l>And thinke better,</l>
+                  <l>To take the other way</l>
+               </lg>
+               <lg>
+                  <l>This haue I tolde,</l>
+                  <l>Euen as I could,</l>
+                  <l>The ſignes of the laſt day:</l>
+                  <l>To be all paſt,</l>
+                  <l>And that in haſt,</l>
+                  <l>The trumpetter ſhall ſay:</l>
+               </lg>
+               <pb facs="tcp:18815:60"/>
+               <lg>
+                  <l>Fall in aray,</l>
+                  <l>Fall in aray.</l>
+                  <l>All ye of Adams ſtocke:</l>
+                  <l>The ſhepehearde will,</l>
+                  <l>Come from the hill,</l>
+                  <l>To diſſeuer his flocke.</l>
+               </lg>
+               <lg>
+                  <l>Then without let,</l>
+                  <l>The ſhéepe ſhall get</l>
+                  <l>Them vnto his right ſide:</l>
+                  <l>The goates ſhall ſtande</l>
+                  <l>At the left hande,</l>
+                  <l>Iudgement for to abide.</l>
+               </lg>
+               <lg>
+                  <l>God graunt that we,</l>
+                  <l>May faithfull be,</l>
+                  <l>And then we ſhall not miſſe:</l>
+                  <l>At the laſt day,</l>
+                  <l>To take the way</l>
+                  <l>Into eternall bliſſe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>IMPRINTED AT LON<g ref="char:EOLhyphen"/>don</hi> by <hi>Henry Bynneman for</hi> Iohn Charlewood, dwelling <hi>in Barbican, at the ſigne</hi> of the halfe Eagle and the Key.</p>
+            <pb facs="tcp:18815:60"/>
+         </div>
+      </back>
+   </text>
+</TEI>
